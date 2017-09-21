@@ -1,0 +1,78 @@
+---
+title: "Tlajinga data cleaning"
+author: "Maria C. Codlin"
+date: "September 20, 2017"
+output: html_document
+---
+In this document I will record my process of cleaning the data from my Tlajinga dataset for analysis. 
+First I load the packages required
+```{r load packages}
+require(tidyr)
+require(dplyr)
+require(ggplot2)
+```
+And then the data set and call it PATT
+```{r read data}
+PATT<-tbl_df(read.csv("PATT_2017_V5_For_R.csv"))
+Lote<-tbl_df(read.csv("PATT_Lote_R.csv"))
+head(PATT)
+head(Lote)
+```
+From Lote, I remove extra columns I had created which I no longer need and overwrite the df Lote.
+```{r Clean Lote details}
+Lote<-select(Lote, -X, -X.1, -X.2)
+```
+Since I have all the details about Lote stored in Lote, I can remove these details from my PATT database. I will keep them stored seperately however for now, just in case I encounter a discrepancy between the Lote df and the Lotes I analysed. 
+```{r remove lote details from PATT}
+PATT_Lote <-select (PATT, Lote:Fecha, Volume)
+PATT<-select(PATT, -Volume, -(Operacion:Fecha))
+head(PATT)
+```
+
+
+```{r }
+
+```
+
+
+
+```{r }
+
+```
+
+
+
+```{r }
+
+```
+
+
+
+```{r }
+
+```
+
+
+
+```{r }
+
+```
+
+
+
+```{r }
+
+```
+
+
+
+```{r }
+
+```
+
+
+
+
+```{r }
+
+```

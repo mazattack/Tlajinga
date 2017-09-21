@@ -1,0 +1,612 @@
+Lote,Investigador,Fecha,Criba,Profundidad (cmbd),Volumen (m³),Operación,Unidad,Elemento,Estructura,Cuarto,Relación a otros lotes (estratigrafía),Descripción del sedimento,Interpretación cultural,Flotación,,,
+1,AGMR,1 VII 13,0.5,,0.82,17,K8,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 5/1",Superficie,,Topsoil,surface,
+2,AGMR,1 VII 13,0.5,,1.02,17,K9,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 5/1",Superficie,,Topsoil,surface,
+3,AGMR,2 VII 13,0.5,,0.725,17,J8,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 5/1",Superficie,,Topsoil,surface,
+4,AGMR,3 VII 13,0.5,,0.86,17,J9,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 5/1",Superficie,,Topsoil,surface,
+5,DHS,1 VII 13,0.5,,0.74,17,K21,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,surface,
+6,DHS,1 VII 13,0.5,,0.81,17,J21,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,surface,
+7,DHS,1 VII 13,0.5,,0.87,17,K20,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,surface,
+8,DHS,1 VII 13,0.5,,0.72,17,J20,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,surface,
+9,DHS,3 VII 13,0.5,,0.48,17,K21,,,,Debajo de 5,"Pedazos de piso apisonado y bajareque, Munsell 10YR 4/2, Arena sub-angular",Derrumbe y deslave,X,Floor pieces,Collapse and mudslide,
+10,DHS,3 VII 13,0.5,,0.07,17,K21,Elemento 1,,,Debajo de 9,Tierra limosa con gravilla. Munsell 10YR 4/2,Depósito tipo cache con núcleos de obsidiana,X,silty sediment with gravel,cache type deposit,x
+11,DHS,3 VII 13,0.5,,1.45,17,J21,,,,Debajo de 6,Tierra arenosa. Munsell 10YR 4/2,Derrumbe y relleno,,sandy sediment - Munsell,Collapse and filled,
+12,DHS,3 VII 13,0.5,,0.4,17,J20,,,,Debajo de 8,Tierra limosa. Munsell 10YR 4/2,Derrumbe y deslave,,silty sediment - Munsell,Collapse and mudslide,
+13,DHS,3 VII 13,0.5,,0.4,17,K20,,,,Debajo de 7,Tierra arcillosa. Munsell 10YR 4/2,Deslave,X,,Mudslide,
+14,AGMR,3 VII 13,0.5,,0.2,17,K8,,,,Debajo de 1,"Arena mediana, Munsell 7.5 YR 3/2",Superficie y Deslave,,,Surface and mudslide,
+15,AGMR,3 VII 13,0.5,,0.21,17,J8,,,,Debajo de 3,"Arena mediana, Munsell 7.5 YR 3/2",Superficie y Deslave,,,Surface and mudslide,
+16,AGMR,4 VII 13,0.5,,0.985,17,J8,,Muro 1,,Debajo de 15,"Arena fina, arcillosa últimos cm. Munsell 7.5YR 3/2",Deslave,,,Mudslide,
+17,AGMR,4 VII 13,0.5,,0.873,17,J9,,,,Debajo de 4,Encima: Tierra orgánica c/ arena mediana. Munsell 7.5YR 3/2. Abajo: Muy arcillosa.,Deslave,,,Mudslide,
+18,DHS,4 VII 13,0.5,,0.44,17,K20,,,,Debajo de 13,Tierra arcillosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+19,DHS,5 VII 13,0.5,,0.46,17,J20,,,,Debajo de 12,Tierra limosa y relleno. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+20,DHS,5 VII 13,0.5,,0.3,17,J21,,,Cuarto 1,"Debajo de 11, dentro de cuarto 1, S del muro",Tierra limosa con piedras de derrumbe. Munsell 10YR 4/2,Núcleo de construcción con relleno sobre piso,X,,corefilled construction above floor,
+21,DHS,5 VII 13,0.5,,0.38,17,J21,,,,"Debajo de 11, N (exterior) del cuarto 1",Tierra arcillosa con algunas piedras. Munsell 10YR 5/2,Núcleo de construcción con relleno,X,,corefilled construction,
+22,AGMR,5 VII 13,0.5,,0.213,17,J8,,Muro 1,,Debajo de 16,Tierra arcillosa. Munsell 10YR 5/3,Núcleo de construcción,,,construction,
+23,AGMR,5 VII 13,0.5,,1.336,17,K8,,Muro 1,,Debajo de 14,"Arena fina arriba, después Silt fino, acabando con tierra arcillosa. Munsell 10YR 5/3",Núcleo de construcción,,,construction,
+24,AGMR,5 VII 13,0.5,,1.089,17,K9,,Muro 1,,Debajo de 2,Arena mediana hasta limo fino. Munsell 10YR 5/2,Núcleo de construcción,X,,construction,
+25,DHS,6 VII 13,0.5,,0.4,17,K21,,,,"Debajo de 9, parejo con 10",Tierra limosa. Munsell 10YR 4/2,Relleno y deslave,,,Fill and mudslide,
+26,DHS,6 VII 13,0.5,,0.68,17,I21,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,Surface,
+27,DHS,8 VII 13,0.5,,0.54,17,I20,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,Surface,
+28,MRD,8 VII 13,0.5,,0.45,17,J16,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 3/2",Superficie,,Topsoil,Surface,
+29,MRD,8 VII 13,0.5,,0.58,17,J17,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 3/2",Superficie,,Topsoil,Surface,
+30,MRD,8 VII 13,0.5,,0.45,17,I16,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 3/2",Superficie,,Topsoil,Surface,
+31,MRD,8 VII 13,0.5,,0.45,17,I17,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 3/2",Superficie,,Topsoil,Surface,
+32,DHS,8 VII 13,0.5,,0.61,17,I21,,,,Debajo de 26,Tierra limosa con piedras de derrumbe y un poco de tepetate molido. Munsell 10YR 5/2,Derrumbe,X,,Collapse,
+33,DHS,8 VII 13,0.5,,1.15,17,I20,,,,Debajo de 27,"Tierra limosa, relleno y piedras. Munsell 10YR 4/2",Derrumbe y relleno,,,Collapse and filled,
+34,AGMR,8 VII 13,0.5,,0.128,17,J8,Elemento 2,Muro 1,,1m x 1m debajo 22,Tierra arcillosa. Munsell 10YR 3/1,Derrumbe y deslave con tiestos grandes,X,,Collapse and mudslide with large potsheds,
+35,AGMR,9 VII 13,0.5,,0.0725,17,J8,Elemento 2,Muro 1,,Debajo de 34,Tierra arcillosa. Munsell 10YR 3/1,Derrumbe y deslave con tiestos grandes,,,Collapse and mudslide with large potsheds,
+36,AGMR,9 VII 13,0.5,,0.134,17,J8,,,,Debajo de 35,Tierra arcillosa. Munsell 10YR 3/1,Derrumbe y deslave con tiestos grandes,,,Collapse and mudslide with large potsheds,
+37,AGMR,9 VII 13,0.5,,0.241,17,J8,,,,Debajo de 36,Tierra arcillosa. Munsell 10YR 3/1,Derrumbe y deslave,,,Collapse and Mudslide,
+38,AGMR,9 VII 13,0.5,,0.17077,17,J8,,,,Debajo de 37,Tierra arcillosa. Munsell 10YR 3/1,Derrumbe y deslave,,,Collapse and Mudslide,
+39,DHS,9 VII 13,0.5,,0.12,17,I20,,,,Debajo de 33 al W del muro,Tierra limosa y relleno. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+40,DHS,9 VII 13,0.5,,0.23,17,I20,,,Cuarto 1,"Debajo de 33 al E del muro, dentro del cuarto 1",Tierra limosa y relleno. Munsell 10YR 4/2,Núcleo de construcción con relleno,X,,corefilled construction,
+41,DHS,9 VII 13,0.5,,0.42,17,I21,,,,Debajo de 32,Tierra limosa y relleno. Munsell 10YR 5/2,Núcleo de construcción con relleno,,,corefilled construction,
+42,AGMR,9 VII 13,0.5,,0.2117,17,J8,,,,"Debajo de 22, igual que 34",Tierra arcillosa. Munsell 10YR 3/1,Derrumbe y deslave,,,Collapse and Mudslide,
+43,AGMR,10 VII 13,0.5,,0.3821,17,J8,,,,"Debajo de 42, igual que 35 y 36",Tierra arcillosa. Munsell 10YR 3/1,Derrumbe y deslave con tiestos grandes,,,Collapse and mudslide with large potsheds,
+44,AGMR,10 VII 13,0.5,,0.477,17,J8,,,,"Debajo de 43, igual a 37",Tierra arcillosa. Munsell 10YR 3/1,Derrumbe y deslave con tiestos grandes,X,,Collapse and mudslide with large potsheds,
+45,AGMR,10 VII 13,0.5,,0.2825,17,J8,,,,"Debajo de 44, igual a 38",Tierra arcillosa. Munsell 10YR 4/2,Primera ocupación sobre el tepetate,X,,First occupation above tepetate,x
+46,DHS,10 VII 13,0.5,,0.67,17,K22,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,Surface,
+47,DHS,10 VII 13,0.5,,0.73,17,J22,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2", \,,Topsoil,Surface,
+48,DHS,10 VII 13,0.5,,0.5,17,I22,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,Surface,
+49,MRD,10 VII 13,0.5,,0.52,17,J17,,,,Debajo de 29,Tierra suelta arcillosa. Munsell 10YR 3/2,Deslave,,,Mudslide,
+50,MRD,10 VII 13,0.5,,0.361,17,I17,,,,Debajo de 31,Tierra suelta arcillosa. Munsell 10YR 3/2,Deslave y derrumbe,,,Collapse and Mudslide,
+51,MRD,11 VII 13,0.5,,0.53,17,J16,,,,Debajo de 24,Tierra suelta arcillosa. Munsell 10YR 3/2,Deslave,,,Mudslide,
+52,MRD,11 VII 13,0.5,,0.46,17,I16,,,,Debajo de 30,Tierra suelta arcillosa. Munsell 10YR 3/2,Deslave y derrumbe,,,Collapse and Mudslide,
+53,AGMR,11 VII 13,0.5,,0.335,17,K8,,,,Debajo de 23,Arena fina arriba y tierra arcillosa. Munsell 10YR 3/1,Relleno y deslave,,,Fill and mudslide,
+54,AGMR,11 VII 13,0.5,,0.3272,17,K8,,,,"Debajo de 34, igual a elemento 2",Tierra arcillosa. Munsell 10YR 3/1,Derrumbe y deslave,,,Collapse and Mudslide,
+55,AGMR,12 VII 13,0.5,,0.1227,17,K8,,,,Debajo de 54,Tierra arcillosa. Munsell 10YR 3/1,Derrumbe y deslave,,,Collapse and Mudslide,
+56,DHS,12 VII 13,0.5,,0.21,17,I22,,,,Debajo de 48,Tierra limosa con piedras de derrumbe. Munsell 10YR 5/2,Deslave y derrumbe sobre el apisonado,,,Collapse and Mudslide above tamped earth,
+57,DHS,12 VII 13,0.5,,0.37,17,J22,,,,Debajo de 47,Tierra limosa con algunas piedras. Munsell 10YR 4/2,Derrumbe y deslave,,,Collapse and Mudslide,
+58,DHS,12 VII 13,0.5,,0.39,17,K22,,,,Debajo de 46,Tierra limosa. Munsell 10YR 5/2,Relleno,,,Fill,
+59,AGMR,12 VII 13,0.5,,0.3562,17,K8,,,,Debajo de 55,Tierra arcillosa. Munsell 10YR 3/1,Derrumbe y deslave,,,Collapse and Mudslide,
+60,AGMR,12 VII 13,0.5,,0.2793,17,K8,,,,Debajo de 59,Tierra arcillosa. Munsell 10YR 3/1,Derrumbe y deslave,,,Collapse and Mudslide,
+61,MRD,12 VII 13,0.5,,0.73,17,J17,,,,Debajo de 49,Tierra suelta arcillosa. Munsell 10YR 3/2,Deslave,,,Mudslide,
+62,MRD,12 VII 13,0.5,,0.99,17,I17,,,,Debajo de 50,Tierra suelta arcillosa. Munsell 10YR 3/2,Deslave,,,Mudslide,
+63,MRD,13 VII 13,0.5,,0.74,17,J16,,,,Debajo de 51,Tierra suelta arcillosa. Munsell 10YR 3/2,Deslave,,,Mudslide,
+64,MRD,13 VII 13,0.5,,0.88,17,I16,,,,Debajo de 52,Tierra suelta arcillosa. Munsell 10YR 3/2,Deslave,,,Mudslide,
+65,AGMR,13 VII 13,0.5,,0.402,17,J9,,,,Debajo de 17,"Arena fina, arcillosa últimos cm. Munsell 10YR 4/2",Deslave,X,,Mudslide,
+66,AGMR,13 VII 13,0.5,,0.147,17,K9,,,,Debajo de 24,Arena mediana hasta limo fino. Munsell 10YR 4/2,Deslave,,,Mudslide,
+67,DHS,12 VII 13,0.5,,0.69,17,K22,,,,Debajo de 58,Tierra limosa con fragmentos de apisonado. Munsell 10YR 5/2,Deslave y piso compactado,,,,
+68,DHS,15 VII 13,0.5,,0.25,17,J22,,,Cuarto 2,Debajo de 57 al N del muro,Tierra limosa. Munsell 10YR 4/2,Derrumbe y relleno,X,,,
+69,DHS,15 VII 13,0.5,,0.21,17,J22,,,,Debajo de 57 al S del muro,Tierra limosa con un poco de arena. Munsell 10YR 5/2,Derrumbe y relleno,,,,
+70,DHS,15 VII 13,0.5,,0.49,17,I22,,,,Debajo de 56,Tierra limosa con algunas piedras. Munsell 10YR 5/2,Deslave con fragmentos de apisonado,,,,
+71,DHS,15 VII 13,0.5,,0.002,17,J22,Elemento 3,,,"Debajo de 68, con mandíbula",Tierra limosa con gravilla. Munsell 10YR 5/2,Depósito tipo cache con mandíbula humana,X,,,x
+72,DHS,15 VII 13,0.5,,0.0001,17,J22,Elemento 4,,,"Debajo de 68, con núcleo",Tierra limosa con gravilla. Munsell 10YR 5/2,Depósito tipo cache con núcleo de obsidiana,,,,x
+73,AGMR,16 VII 13,0.5,,1.11,17,K10,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,Surface,
+74,AGMR,16 VII 13,0.5,,1.04,17,J10,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,Surface,
+75,MRD,16 VII 13,0.5,,0.596,17,J17,,,,Debajo de 61,Tierra suelta arcillosa con hueso humano. Munsell 10YR 3/2,Nivel con concentraciones de hueso pequeño y disarticulado.,X,,,x
+76,MRD,16 VII 13,0.5,,0.568,17,J17,,,,Debajo de 62,Tierra suelta arcillosa con hueso humano. Munsell 10YR 3/2,Nivel con concentraciones de hueso pequeño y disarticulado.,X,,,x
+77,MRD,16 VII 13,0.5,,0.604,17,J16,,,,Debajo de 63,Tierra suelta arcillosa. Munsell 10YR 3/2,Deslave,X,,Mudslide,
+78,MRD,16 VII 13,0.5,,0.556,17,I16,,,,Debajo de 64,Tierra suelta arcillosa. Munsell 10YR 3/2,Deslave,X,,Mudslide,
+79,DHS,16 VII 13,0.5,,0.6,17,H20,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,Surface,
+80,DHS,16 VII 13,0.5,,0.76,17,H21,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,Surface,
+81,DHS,17 VII 13,0.5,,0.6,17,H22,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,Surface,
+82,AGMR,17 VII 13,0.5,,0.8262,17,K10,,,,Debajo de 73,"Arena mediana, Munsell 4/2",Deslave,X,,Mudslide,
+83,AGMR,17 VII 13,0.5,,1.425,17,J10,,,,Debajo de 74,"Arena mediana, Munsell 4/2",Deslave,X,,Mudslide,
+84,AGMR,17 VII 13,0.5,,0.395,17,K9,,,,Debajo de 66,Arena mediana hasta limo fino. Munsell 10YR 4/2,Deslave,X,,Mudslide,
+85,AGMR,17 VII 13,0.5,,0.107,17,J9,,,,Debajo de 65,"Arena fina, arcillosa últimos cm. Munsell 10YR 4/2",Nivel de ocupación para la Av. de los Muertos,,,,x
+86,MRD,19 VII 13,0.5,,0.41,17,J17,,,,Debajo de 75,Tierra suelta arcillosa. Munsell 10YR 3/2,Sobre Piso 1A,S,,,x
+87,MRD,19 VII 13,0.5,,0.296,17,I17,,,,Debajo de 76,Tierra suelta arcillosa. Munsell 10YR 3/2,Sobre Piso 1A,X,,,x
+88,DHS,19 VII 13,0.5,,0.58,17,H22,,,,Debajo de 81,Tierra limosa con algunas piedras. Munsell 10YR 4/2,Relleno,,,Fill,
+89,DHS,19 VII 13,0.5,,0.5,17,H21,,,,Debajo de 80,"Tierra limosa, diferencia de color en sedimento. Munsell 10YR 4/3 hacia el N y 10YR 4/2 hacia el S","Relleno constructivo, posible empedrado",,,,
+90,DHS,19 VII 13,0.5,,0.38,17,H20,,,,Debajo de 79,Tierra limosa con piedras de derrumbe. Munsell 10YR 4/2,Derrumbe y deslave,,,Collapse and Mudslide,
+91,AGMR,19 VII 13,0.5,,0.016,17,K9,,,,Con 84,Arena mediana hasta limo fino. Munsell 10YR 4/2,Deslave,,,Mudslide,
+92,AGMR,19 VII 13,0.5,,0.086,17,K9,,,,Debajo de 84,Arena mediana hasta limo fino. Munsell 10YR 4/2,Deslave,,,Mudslide,
+93,AGMR,20 VII 13,0.5,,0.05,17,J9,,,,Debajo de 85,Arena mediana hasta limo fino. Munsell 10YR 4/2,"Primera ocupación de Av. de los Muertos, sobre el tepetate.",,,,x
+94,AGMR,20 VII 13,0.5,,0.205,17,J-K9,,,,Debajo de 92,Arena mediana hasta limo fino. Munsell 10YR 4/2,"Primera ocupación de Av. de los Muertos, sobre el tepetate.",X,,,x
+95,MRD,20 VII 13,0.5,,0.244,17,J16,,,,Debajo de 77,Tierra suelta arcillosa. Munsell 10YR 3/2,Sobre Piso 1A,,,,x
+96,MRD,20 VII 13,0.5,,0.144,17,I16,,,,Debajo de 78,Arena mediana hasta limo fino. Munsell 10YR 4/2,Sobre Piso 1A,,,,x
+97,DHS,20 VII 13,0.5,,0.18,17,H22,,,,Debajo de 88,Tierra limosa. Munsell 10YR 4/2,Relleno,,,Fill,
+98,DHS,20 VII 13,0.5,,0.0006,17,H22,Elemento 5,,,Debajo de 88,Tierra limosa. Munsell 10YR 4/2,"Depósito tipo cache con núcleos de obsidiana, metate y mano, vasijas y puntas.",X,,,x
+99,DHS,22 VII 13,0.5,,0.294,17,K22,,,,Debajo de 67,Tierra limosa. Munsell 10YR 5/2,Relleno,,,Fill,
+100,DHS,22 VII 13,0.5,,0.02,17,I22,,,,Debajo de 70,Tierra limosa. Munsell 10YR 5/2,Relleno y deslave,,,Fill and mudslide,
+101,DHS,22 VII 13,0.5,,0.12,17,J22,,,,Debajo de 68 y 69,Tierra limosa. Munsell 10YR 5/2,Núcleo de construcción con relleno bajo nivel de último piso,,,,
+102,DHS,22 VII 13,0.5,,0.38,17,K21,,,,Debajo de 25,Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+103,MRD,22 VII 13,0.5,,0.544,17,I16,,,,"Debajo de 96,y nivel del piso 1",Tierra suelta arcillosa y tierra compactada. Munsell 10YR 3/2,Base de Piso 1A y 1B,,,,x
+104,DHS,22 VII 13,0.5,,0.37,17,J21,,,,"Debajo de 21, pegado a la esquina NE del cuarto 1 (exterior)","Tierra arcillosa y arena, derrumbe. Munsell 10YR 5/2",Núcleo de construcción con relleno y derrumbe,,,,
+105,DHS,22 VII 13,0.5,,0.0001,17,J21 e I21,Elemento 6,,,Debajo de 104,Tierra arcillosa y arena. Munsell 10YR 5/2,Vasija con posible paleobotánica,X,,,x
+106,DHS,22 VII 13,0.5,,0.16,17,K20,,,,Debajo de 18,Tierra arcillosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+107,KGH,23 VII 13,0.5,,0.17,17,J21,,,,"Debajo de 21 al S del muro N del cuarto 1, parejo con 105","Tierra arcillosa y arena, derrumbe. Munsell 10YR 5/2",Núcleo de construcción con relleno arenoso,,,,
+108,KGH,23 VII 13,0.5,,0.1,17,J20,,,,"Debajo de 19, lado exterior W del cuarto 1",Tierra limosa y relleno. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+109,KGH,23 VII 13,0.5,,0.56,17,J20,,,Cuarto 1,"Debajo de 19, esquina interior NW del cuarto 1",Tierra limosa y arena. Munsell 10YR 5/2,Núcleo de construcción con relleno arenoso,,,,
+110,MRD,23 VII 13,0.5,,0.348,17,I16,,,,Debajo de 103,Tierra suelta arcillosa y tierra compactada. Munsell 10YR 3/2,Base de Piso 1B y sobre Piso 2A y 2B,,,,x
+111,KGH,23 VII 13,0.5,,0.07,17,I20,,,Cuarto 1,"Debajo de 40, cuarto 1 a lo largo del muro W interior",Tierra arcillosa con un poco de arena. Munsell 10YR 5/2,Núcleo de construcción con relleno arenoso,,,,
+112,KGH/AGMR,23 VII 13,0.5,,0.45,17,I21,,,Cuarto 1,"Debajo de 41, dentro del cuarto 1",Tierra limosa y relleno con arena. Munsell 10YR 5/2,Núcleo de construcción con relleno,,,corefilled construction,
+113,AGMR,23 VII 13,0.5,,0.09,17,I20,,,,"Debajo de 40, exterior del muro al W del cuarto 1",Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción,,,,
+114,MRD/KGH,23 VII 13,0.5,,0.245,17,I16,,,,"Debajo de 103, los 80 cm al E arriba del piso 2",Tierra compactada con grava. Munsell 10YR 3/2,Base de Piso 1B y sobre Piso 2A y 2B,,,,x
+115,KGH/AGMR,23 VII 13,0.5,,0.04,17,J20,,,,"Debajo de 108, esquina exterior NW del cuarto 1, al E del muro",Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+116,KGH/AGMR,23 VII 13,0.5,,0.21,17,K20,,,,"Debajo de 106, a lado de 115, al E del muro de piedra/adobe, N-S",Tierra arenosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+117,KGH,23 VII 13,0.5,,0.05,17,H20,,,,"Debajo de 90, interior del cuarto 3",Tierra limosa. Munsell 10YR 4/2,Relleno,X,,Fill,
+118,KGH/AGMR,23 VII 13,0.5,,0.06,17,J20,,,,"Debajo de 115, al W del cuarto1, lado exterior",Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+119,KGH/AGMR,23 VII 13,0.5,,0.07,17,K20,,,,"Debajo de 106, a lado de 118 de J20, lado W del muro N-S",Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+120,KGH/AGMR,23 VII 13,0.5,,0.804,17,I19,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,Surface,
+121,MRD,23 VII 13,0.5,,0.156,17,I16,,,,"Debajo de 110, 1x2 en la parte W del pozo, abajo del piso 2",Tierra compactada con grava. Munsell 10YR 4/2,"Base de Piso 2A y 2B, relleno",,,,x
+122,DHS/AGMR,24 VII 13,0.5,,0.31,17,K21,,,,Debajo de 102,Tierra limosa. Munsell 10YR 4/2,Relleno,,,Fill,
+123,MRD,24 VII 13,0.5,,0.46,17,I16,,,,Debajo de 121 sobre el tepetate,Tierra compactada con grava y tiesto. Munsell 10YR 4/2,Relleno con tiestos sobre tepetate,,,,
+124,DHS,24 VII 13,0.5,,0.32,17,H21,,,,"Debajo de 89, alrededor de lajas",Tierra arenosa y limosa. Munsell 10YR 6/2,Relleno constructivo,,,,
+125,DHS,24 VII 13,0.5,,0.14,17,H21,,,,"Debajo de 89, dentro de lajas",Tierra arenosa y limosa. Munsell 10YR 6/2,Relleno constructivo,,,,
+126,AGMR,24 VII 13,0.5,,0.02,17,K21 y K22,,,,Debajo de 9 y de 58 (nivel de piso 1) igual que 102/122 y 99,Fragmento de apisonado. Munsell 10YR 4/2,Deslave y fragmento de apisonado,,,,
+127,AGMR,24 VII 13,0.5,,0.26,17,K22,,,,Debajo de 99,Tierra limosa. Munsell 10YR 5/2,Relleno,,,Fill,
+128,MRD,24 VII 13,0.5,,0.38,17,I19,,,,Debajo de 120,Tierra suelta arcillosa. Munsell 10YR 3/2,Deslave y derrumbe,,,Collapse and Mudslide,
+129,DHS,24 VII 13,0.5,,0.11,17,H20,,,,Debajo de 117 en SE del cuadro,Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+130,DHS,25 VII 13,0.5,,0.15,17,J21,,,,Debajo de 21 y 104 al S del muro N del cuarto 1,Tierra arcillosa y arena. Munsell 10YR 5/2,Núcleo de construcción con relleno arenoso,X,,,
+131,AGMR,25 VII 13,0.5,,0.18,17,J21,,,,Debajo de 21 al N del muro N del cuarto 1,Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+132,AGMR,25 VII 13,0.5,,0.15,17,J22,,,,Debajo de 101,Tierra limosa. Munsell 10YR 5/2,Núcleo de construcción con relleno,,,corefilled construction,
+133,DHS,25 VII 13,0.5,,0.22,17,I21,,,,Debajo de 112,Tierra limosa y relleno con un poco de arena. Munsell 10YR 5/2,Núcleo de construcción con relleno arenoso,,,,
+134,DHS,25 VII 13,0.5,,0.1,17,J20,,,,"Debajo de 109, esquina NW interior del cuarto 1",Tierra arcillosa y arena. Munsell 10YR 5/2,Núcleo de construcción con relleno arenoso,,,,
+135,DHS,25 VII 13,0.5,,0.1,17,I20,,,,"Debajo de 111, interior del cuarto 1, al E del muro W",Tierra arcillosa y arena. Munsell 10YR5/2,Núcleo de construcción con relleno arenoso,,,,
+136,MRD,25 VII 13,0.5,,0.556,17,I19,,,,Debajo de 128,Tierra suelta arcillosa. Munsell 10YR 3/2,Sobre Piso 1,,,,x
+137,AGMR,25 VII 13,0.5,,0.42,17,I22,,,,Debajo de 100,Tierra compacta con piedras. Munsell 10YR 5/2,Relleno y deslave,,,Fill and mudslide,
+138,DHS,25 VII 13,0.5,,0.54,17,H21,Elemento 7,,,Debajo de 89,"Tierra arenosa y limosa, concentración de material. Munsell 10YR 6/2",Relleno constructivo,,,,
+139,DHS,25 VII 13,0.5,,0.08,17,H20,,,,Debajo de 129,Tierra limosa. Munsell 10YR 5/2,Núcleo de construcción con relleno,,,corefilled construction,
+140,AGMR,25 VII 13,0.5,,0.05,17,H22,,,,"Debajo de 81, esquina SW",Tierra limosa con algunas piedras. Munsell 10YR 4/2,Relleno,,,Fill,
+141,AGMR,25 VII 13,0.5,,0.346,17,H22,,,NO BONES HERE,"Debajo de 88, lado NE",Tierra limosa. Munsell 10YR 5/2,Núcleo de construcción con relleno,,,corefilled construction,
+142,AGMR,25 VII 13,0.5,,0.504,17,G22,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,Surface,
+143,MRD,26 VII 13,0.5,,0.348,17,I19,,,,Debajo de 136,"Tierra compactada, relleno. Munsell 10YR 4/2",Base de Piso 1,,,,x
+144,MRD,26 VII 13,0.5,,0.355,17,J19s,,,,Superficie S de 1x2,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 3/2",Superficie,,Topsoil,Surface,
+145,MRD,26 VII 13,0.5,,0.185,17,J19s,,,,Debajo de 144,Tierra suelta arcillosa. Munsell 10YR 3/2,Derrumbe y deslave,,,Collapse and Mudslide,
+146,MRD,26 VII 13,0.5,,0.08,17,J19s,Elemento 8,,,"Debajo de 145, lado S encima de entierro 1", ,Entierro humano,,,Burial,
+147,MRD,26 VII 13,0.5,,0.232,17,J19s,,,,"Debajo de 145, lado N",Tierra suelta arcillosa. Munsell 10YR 3/2,"Sobre Piso 1, deslave",,,,x
+148,AGMR,26 VII 13,0.5,,0.4778,17,G22,,,,Debajo de 142,Tierra limosa con algunas piedras. Munsell 10YR 4/2,Derrumbe y deslave,,,Collapse and Mudslide,
+149,AGMR,27 VII 13,0.5,,0.196,17,G22,,,,Debajo de 148,Tierra limosa. Munsell 10YR 4/2,Relleno,,,Fill,
+150,AGMR,27 VII 13,0.5,,0.237,17,G22,,,,Debajo de 149,Tierra limosa. Munsell 10YR 4/2,Relleno,,,Fill,
+151,DHS,29 VII 13,0.5,,0.31,17,J22,,,,Debajo de 101 al N del muro N del cuarto 2 (c. 2x0.8),Tierra limosa. Munsell 10YR 5/2,Núcleo de construcción con relleno,,,corefilled construction,
+152,MRD,29 VII 13,0.5,,0.174,17,J19s,,,,Debajo de 147,Tierra compactada. Munsell 10YR 4/2,Base de Piso 1,,,,x
+153,MRD,29 VII 13,0.5,,0.2464,17,I20,,,,"Debajo de 113 al W del muro W del cuarto 1, incluye muro posterior pegado al muro W",Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+154,AGMR,29 VII 13,0.5,,0.23,17,J22,,,,"Esquina NW de la unidad, incluyendo el Piso 1 y debajo de 57, igual al 68 y 151. Debajo de probable acceso tardío del cuarto 1",Tierra limosa. Munsell 10YR 5/2,Primera ocupación sobre el tepetate,,,,x
+155,DHS,29 VII 13,0.5,,0.22,17,I20,,,,"Debajo de 135, interior del cuarto 1",Tierra arcillosa con arena. Munsell 10YR 5/2,Núcleo de construcción con relleno arenoso,,,,
+156,DHS,29 VII 13,0.5,,0.29,17,I21,,,,"Debajo de 133, interior del cuarto 1",Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno arenoso,X,,,
+157,AGMR,29 VII 13,0.5,,0.36,17,J21,,,,Debajo de 131 al N (ext.) del muro N del cuarto 1,Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+158,MRD,29 VII 13,0.5,,0.094,17,H20,,,,Debajo de 139 al W del muro W (ext.) del cuarto 3,Tierra limosa. Munsell 10YR 5/2,Núcleo de construcción con relleno,,,corefilled construction,
+159,DHS,29 VII 13,0.5,,0.11,17,J20,,,,"Debajo de 134, esquina NW interior del cuarto 1",Tierra arcillosa y arena. Munsell 10YR 5/2,Núcleo de construcción con relleno arenoso,,,,
+160,DHS,29 VII 13,0.5,,0.15,17,J21,,,,"Debajo de 20, interior del cuarto 1, al S del muro N",Tierra arcillosa y arena. Munsell 10YR 5/2,Núcleo de construcción con relleno arenoso,,,,
+161,AGMR,29 VII 13,0.5,,0.051,17,J20,,,,Debajo de 108 al N (ext.) del muro N del cuarto 1,Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno arenoso,,,,
+162,MRD,29 VII 13,0.5,,0.1266,17,H20,,,,"Debajo de 158, W del muro W",Tierra limosa. Munsell 10YR 5/2,Núcleo de construcción con relleno,,,corefilled construction,
+163,MRD,29 VII 13,0.5,,0.1596,17,I20,,,,Debajo de 153 al W (ext.) del muro W del cuarto 1,Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+164,AGMR,30 VII 13,0.5,,0.232,17,K20,,,,"Debajo de 116, lado E del muro",Tierra arenosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+165,AGMR,30 VII 13,0.5,,0.108,17,H22,,,,"Igual que 140, debajo de 81, lado S",Tierra limosa. Munsell 10YR 5/2,Núcleo de construcción con relleno,,,corefilled construction,
+166,DHS,30 VII 13,0.5,,1.52,17,K22,,,,Debajo de 127,Tierra limosa medio compactada. Munsell 10YR 5/2,Primera ocupación sobre el tepetate,,,,x
+167,MRD,30 VII 13,0.5,,0.872,17,I19,,,,Debajo de 143,Tierra compactada laminada. Munsell 10YR 4/2,Debajo del Piso 1. Relleno compactado con posibles apisonados.,,,,
+168,AGMR,30 VII 13,0.5,,0.027,17,H22,Elemento 9,,,"Debajo de 140, 141 y 165, dentro del drenaje",Tierra limosa. Munsell 10YR 5/2,Relleno dentro de drenaje,X,,,
+169,AGMR,30 VII 13,0.5,,0.007,17,G22,Elemento 9,,,"Debajo de 150, dentro del drenaje",Tierra limosa. Munsell 10YR 5/2,Relleno dentro de drenaje,X,,,
+170,AGMR,30 VII 13,0.5,,0.0454,17,H22,Elemento 5,,,Debajo de 98,Tierra limosa. Munsell 10YR 5/2,Relleno,,,Fill,
+171,DMC/AGMR,30 VII 13,0.5,,0.33,17,I21,Elemento 10,,,Debajo de 156,Tierra limosa y relleno con arena. Munsell 10YR 5/2,Núcleo de construcción con relleno arenoso,,,,
+172,AGMR/MST,30 VII 13,0.5,,0.11,17,I21,,,,"Debajo de 156, misma profundidad que 171 y 173, esquina SE",Tierra suelta limosa y arcillosa. Munsell 10YR 5/2,Muestra de tierra,,,,x
+173,AGMR,30 VII 13,0.5,,0.08,17,I21,,,,"Debajo de 156, misma profundidad que 171, esquina SE",Tierra suelta limosa y arcillosa. Munsell 10YR 5/2,"Núcleo de construcción, primera ocupación sobre el tepetate",,,,
+174,MRD,31 VII 13,0.5,,0.1932,17,I20,,,,"Debajo de 163, W del muro",Tierra suelta arcillosa. Munsell 10YR 4/2,Relleno,,,Fill,
+175,MRD,31 VII 13,0.5,,0.079,17,I20,Elemento 11,,,Debajo de 163 y 174 al S de la unidad,Tierra suelta arcillosa con hueso. Munsell 10YR 4/2,Entierro humano sobre el tepetate,,,Burial,
+176,AGMR,31 VII 13,0.5,,0.185,17,I20,,,,Debajo de 155 al interior del cuarto 1,Tierra arcillosa con arena. Munsell 10YR 5/2,Primera ocupación sobre el tepetate,,,,x
+177,AGMR,31 VII 13,0.5,,0.48,17,K20,,,,"Debajo de 119, lado E del muro",Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+178,AGMR,31 VII 13,0.5,,0.224,17,J20,,,,"Debajo de 118, lado E del muro",Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+179,DHS,31 VII 13,0.5,,1.36,17,K21,,,,Debajo de 122,Tierra limosa medio compactada. Munsell 10YR 5/2,Primera ocupación sobre el tepetate,,,,x
+180,MRD,31 VII 13,0.5,,0.512,17,I19,,,,Debajo de 136 y 143,Tierra compactada y relleno. Munsell 10YR 4/3,Relleno compactado con posible apisonado,,,,
+181,DHS,31 VII 13,0.5,,0.09,17,K21,Elemento 12,,,"Debajo de 179, en tepetate al W",Tierra limosa medio compactada. Munsell 10YR 5/2,Depresión antropogénica en tepetate poco profundo con hueso pequeño disarticulado,X,,,x
+182,DHS,31 VII 13,0.5,,0.0001,17,K21,Elemento 13,,,"Debajo de 179, en tepetate al E",Tierra limosa medio compactada. Munsell 10YR 5/2,Depresión antropogénica en tepetate poco profundo con hueso pequeño disarticulado,,,,x
+183,MRD,31 VII 13,0.5,,0.292,17,I19,,,,Debajo de 167,"Tierra compactada, relleno. Munsell 10YR 4/3",Relleno compactado con posible apisonado,X,,,
+184,DHS,1 VIII 13,0.5,,0.478,17,J19s,,,,Debajo de 152,"Tierra compactada, laminada. Munsell 10YR 4/3",Relleno compactado con posible apisonado,,,,
+185,DHS,1 VII 13,0.5,,0.162,17,J19s,,,,Debajo de 184,Tierra compactada. Munsell 10YR 4/3,Relleno compactado,,,,
+186,MRD,1 VIII 13,0.5,,0.4598,17,I19,,,,Debajo de 183,Tierra compactada relleno. 10YR 4/3,Nivel sobre tepetate,,,,x
+187,AGMR,1 VIII 13,0.5,,0.3,17,J22,,,,Debajo de 132,Tierra limosa. Munsell 10YR 5/2,Núcleo de construcción con relleno,,,corefilled construction,
+188,DHS/BG,1 VIII 13,0.5,,0.21,17,J20,,,,Debajo de 178,Tierra limosa. Munsell 10YR 4/2,Núcleo de construcción con relleno,,,corefilled construction,
+189,AGMR,1 VIII 13,0.5,,0.313,17,I22,,,,Debajo de 137,Tierra compacta. Munsell 10YR 5/2,Relleno y deslave,,,Fill and mudslide,
+190,DHS/BG,1 VIII 13,0.5,,0.01,17,J20,,,,Debajo de 188,Tierra limosa. Munsell 10YR 4/2,Primera ocupación sobre el tepetate,,,,x
+191,DHS/BG,1 VIII 13,0.5,,0.023,17,K20,,,,Debajo de 177,Tierra limosa. Munsell 10YR 5/2,Primera ocupación sobre el tepetate,,,,x
+192,MRD,1 VIII 13,0.5,,0.163,17,H19N,,,,Superficie,"Capa húmica, tierra orgánica y raíces. Munsell 10YR 4/2",Superficie,,Topsoil,Surface,
+193,DHS/BG,1 VIII 13,0.5,,0.16,17,J19,,,,Debajo de 185,Tierra compactada. Munsell 10YR 4/3,Relleno compactado con posible apisonado,,,,
+194,AGMR,2 VIII 13,0.5,,0.395,17,H21,,,,Debajo de 89 al N del drenaje,Tierra arenosa y limosa. Munsell 10YR 6/2,Relleno constructivo,,,,
+195,AGMR,2 VIII 13,0.5,,0.401,17,H21,,,,Debajo de 138 al S del drenaje,Tierra arenosa y limosa. Munsell 10YR 6/2,Relleno constructivo,,,,
+196,AGMR,2 VIII 13,0.5,,0.05,17,H20,,,,Debajo de 129 al N del drenaje,Tierra limosa. Munsell 10YR 5/2,Núcleo de construcción con relleno del drejane,,,,
+197,AGMR,2 VIII 13,0.5,,0.715,17,H20,,,,Debajo de 129 al S del drenaje,Tierra limosa. Munsell 10YR 5/2,Núcleo de construcción con relleno,,,corefilled construction,
+198,DHS/BG,2 VIII 13,0.5,,0.06,17,J19s,,,,Debajo de 193,Tierra compactada. Munsell 10YR 4/3,Primera ocupación sobre el tepetate,,,,x
+199,MRD,2 VIII 13,0.5,,0.258,17,H19N,,,,Debajo de 192,Tierra suelta arcillosa. Munsell 10YR 3/2,Deslave,,,Mudslide,
+200,MRD,2 VIII 13,0.5,,0.238,17,H19N,,,,Debajo de 199,Tierra suelta arcillosa. Munsell 10YR 3/2,Deslave,,,Mudslide,
+201,MRD,2 VIII 13,0.5,,0.262,17,H19N,,,,Debajo de 200,Tierra suelta arcillosa. Munsell 10YR 3/2,Sobre de Piso 1 y Deslave,,,,x
+202,MRD,2 VIII 13,0.5,,0.0992,17,H19N,,,,Debajo de 201,Tierra compactada y tierra suelta arcillosa. Munsell 10YR 4/2,Base de Piso 1 y relleno,,,,x
+203,MRD,2 VIII 13,0.5,,0.048,17,H20,,,,Debajo de 162 al W del muro W,Tierra suelta arcillosa. Munsell 10YR 3/2,Derrumbe y relleno,,,,
+204,MRD,2 VIII 13,0.5,,0.1675,17,H19N,,,,Debajo do 202,Tierra compactada y tierra laminada 10YR 4/3,Relleno,,,Fill,
+205,MRD,2 VIII 13,0.5,,0.0822,17,H20,,,,Debajo de 203 al W del muro W,Tierra suelta arcillosa. Munsell 10YR 3/2,Derrumbe y relleno,,,,
+206,MRD,2 VIII 13,0.5,,0.079,17,H19N,Elemento 11,,,Debajo de 204,Tierra compactada y tierra suelta con grava. Munsell 10YR 4/3,Entierro humano sobre tepetate,,,Burial,
+207,AGMR,3 VIII 13,0.5,,0.005,17,H20,Elemento 14,,,Debajo de 197,Tierra limosa. Munsell 10YR 5/2,Depósito tipo cache con conchas y núcleos de obsidiana,X,,,x
+208,AGMR,5 VIII 13,0.5,,0.03,17,J20,,,,Debajo de 159,Tierra arcillosa y arena. Munsell 10YR 5/2,Primera ocupación sobre el tepetate,,,,x
+209,AGMR,5 VIII 13,0.5,,0.21,17,J21,,,,Debajo de 160,Tierra arcillosa y arena. Munsell 10YR 5/2,Núcleo de construcción con relleno arenoso,,,,
+210,MRD,5 VIII 13,0.5,,0.1118,17,H19N,,,,Debajo de 204,Tierra compactada. Munsell 10YR 4/3,Sobre el Tepetate Circa de El. 11,,,,x
+211,AGMR,5 VIII 13,0.5,,0.192,17,J22,,,,"Debajo de 187, interior del cuarto 2",Tierra limosa. Munsell 10YR 5/2,Primera ocupación sobre el tepetate,,,,x
+212,AGMR,5 VIII 13,0.5,,0.398,17,I22,,,,"Debajo de 189, interior del cuarto 2",Tierra compacta. Munsell 10YR 5/2,Primera ocupación sobre el tepetate,,,,x
+213,MRD,5 VIII 13,0.5,,0.0588,17,H20,,,,"Debajo de 205, W de la pared",Tierra medio compacta con grava. Munsell 10YR 4/2,Primera ocupación sobre el tepetate,,,,x
+214,AGMR,5 VIII 13,0.5,,0.096,17,H22,,,,"Debajo de 90, muro mas reciente al N del drenaje separando cuarto 3 del cuarto 2",Tierra limosa y arenosa. Munsell 10YR 5/2,Primera ocupación sobre el tepetate,,,,x
+215,AGMR,5 VIII 13,0.5,,0.0402,17,H21,,,,"Debajo de 194, cachito de piso W hasta tepetate lado N del drenaje",Tierra arenosa y limosa. Munsell 10YR 6/2,Primera ocupación sobre el tepetate,,,,x
+216,AGMR,5 VIII 13,0.5,,0.2115,17,H20,,,,"Debajo de 196, norte del drenaje hasta el tepetate",Tierra limosa. Munsell 10YR 5/2,Primera ocupación sobre el tepetate,,,,x
+217,AGMR,6 VIII 13,0.5,,0.0206,17,H20,,,,Relleno de drenaje pasando por muro N-S al W,Tierra arenosa y limosa. Munsell 10YR 6/2,Primera ocupación sobre el tepetate,,,,x
+218,AGMR,6 VIII 13,0.5,,0.003,17,H22,,,,Relleno de drenaje pasando por muro N-S al E,Tierra limosa y arenosa. Munsell 10YR 5/2,Primera ocupación sobre el tepetate,,,,x
+219,AGMR,6 VIII 13,0.5,,0.1428,17,G22,,,,Piso 1 y su base parte S debajo de 150,Tierra limosa. Munsell 10YR 4/2,Relleno,X,,Fill,
+220,AGMR,6 VIII 13,0.5,,0.02235,17,G22,,,,"Piso 2 y relleno debajo de 219, esquina SE",Tierra limosa. Munsell 10YR 4/2,Relleno,X,,Fill,
+221,AGMR,6 VIII 13,0.5,,0.027,17,G22,,,,"Debajo de 220, esquina SE sobre el tepetate",Tierra limosa. Munsell 10YR 4/2,Primera ocupación sobre el tepetate,,,,x
+300,GMB/DHS,15 V 14,no,Superficie,0,18,18 SE,,,,Superficie,Colección de Superficie,Colección de Superficie,,,Surface collection,
+301,GMB/DHS,15 V 14,no,Superficie,0,18,18 NE,,,,Superficie,Colección de Superficie,Colección de Superficie,,,Surface collection,
+302,GMB/DHS,15 V 14,no,Superficie,0,18,18 SW,,,,Superficie,Colección de Superficie,Colección de Superficie,,,Surface collection,
+303,GMB/DHS,15 V 14,no,Superficie,0,18,18 NW,,,,Superficie,Colección de Superficie,Colección de Superficie,,,Surface collection,
+304,DHS,19 V 14,no,32 - 42,0.84,18,N20,,,,Superficie,Tierra orgánica arcillosa. Munsell 10YR 2/2,Zona de arado,Plough zone,,,
+305,DHS,19 V 14,no,37 - 59,0.88,18,N21,,,,Superficie,Tierra orgánica arcillosa. Munsell 10YR 2/2,Zona de arado,Plough zone,,,
+306,DHS,19 V 14,no,21 - 36,0.6,18,N22,,,,Superficie,Tierra orgánica arcillosa. Munsell 10YR 2/2,Zona de arado,Plough zone,,,
+307,DHS,19 V 14,no,26 - 38,0.4,18,M20,,,,Superficie,"Tierra orgánica arcillosa, Munsell 10YR2/2",Zona de arado,Plough zone,,,
+308,DHS,19 V 14,no,26 - 36,0.52,18,M21,,,,Superficie,"Tierra orgánica arcillosa, Munsell 10YR2/2",Zona de arado,Plough zone,,,
+309,DHS,19 V 14,no,18 - 34,0.48,18,M22,,,,Superficie,Tierra orgánica arcillosa. Munsell 10YR 2/2,Zona de arado,Plough zone,,,
+310,LH,19 V 14,no,20 -34,0.56,18,L20,,,,superficie,"tierra orgánica arcillosa, Munsell 10 YR 2/2 very dark brown",superficie,,Soil - loamy,Surface,
+311,LH,19 V 14,no,16 - 33,0.68,18,L21,,,,superficie,"tierra orgánica arcillosa, Munsell 10 YR 2/2 very dark brown",superficie,,Soil - loamy,Surface,
+312,LH,19 V 14,no,13 - 31,0.72,18,L22,,,,superficie,"tierra orgánica arcillosa, Munsell 10 YR 2/2 very dark brown",superficie,,Soil - loamy,Surface,
+313,LH,19 V 14,0.5,34 - 55,0.44,18,L20,,,,debajo de 310,"tierra orgánica arcillosa, Munsell 10 YR 2/2, very dark brown",deslave y derrumbe,,,Collapse and Mudslide,
+314,DHS,19 V 14,0.5,38 - 58,0.64,18,M20,,,,debajo de 307,Tierra orgánica arcillosa. Munsell 10YR 2/2,Deslave,,,Mudslide,
+315,LH,20 V 14,0.5,33 - 42,0.324,18,L21,,,,"norte del muro, debajo de 311","tierra orgánica arcillosa, Munsell 10 YR 2/2 very dark brown",deslave y derrumbe,,,Collapse and Mudslide,
+316,DHS,20 V 14,0.5,42 - 60,0.72,18,N20,,,,Debajo de 304,Tierra orgánica arcillosa. Munsell 10YR 2/2,deslave,,,Mudslide,
+317,LH,20 V 14,0.5,31 - 41,0.3328,18,L22,,,,"esquina sureste interior del cuarto, debajo de 312","tierra orgánica arcillosa, Munsell 10 YR 2/2 very dark brown",deslave y derrumbe con relleno,,,,
+318,DHS,20 V 14,0.5,59 - 72,1.4,18,N21,,,,Debajo de 305,Tierra orgánica arcillosa. Munsell 10YR 2/2,Deslave,,,Mudslide,
+319,DHS,21 V 14,0.5,36 - 61,0.75,18,N22,,,,Debajo de 306,Tierra orgánica arcillosa. Munsell 10YR 2/2,Deslave,,,Mudslide,
+320,DHS,21 V 14,0.5,34 - 58,0.84,18,M22,,,,Debajo de 309,Tierra orgánica arcillosa. Munsell 10YR 2/2,Deslave,X,,Mudslide,
+321,DHS,21 V 14,0.5,36 - 58,0.84,18,M21,,,,Debajo de 308,Tierra orgánica arcillosa. Munsell 10YR 2/2,Deslave,,,Mudslide,
+322,DHS,21 V 14,0.5,60 -70,0.44,18,N20,,,,Debajo de 316,tierra limosa con raices,Deslave,,,Mudslide,
+323,DHS,21 V 14,0.5,72 - 93,0.84,18,N21,,,,Debajo de 318,"tierra limosa, Munsell 10YR 3/2",Deslave,,,Mudslide,
+324,DHS,22 V 14,0.5,58 - 70,0.43,18,M20,,,,Debajo de 314,Tierra limosa. Munsell 10YR 2/3,Deslave,,,Mudslide,
+325,DHS,22 V 14,0.5,58 - 71,0.24,18,M21,,,,Debajo de 321,Tierra limosa con algunos adobes,Deslave,,,Mudslide,
+326,LH,22 V 14,0.5,51 - 71,0.36,18,L21,,,,"debajo de 315, al norte del muro, encima de piso 2",tierra limosa,derrumbe sobre el nivel de piso 2,,,,
+327,LH,22 V 14,0.5,55 - 70,0.21,18,L20,,,,"debajo de 313, encima de piso 2",tierra limosa,derrumbe sobre el nivel de piso 2,,,,
+328,DHS,22 V 14,0.5,61 - 72,0.33,18,N22,,,,debajo de 319,tierra arcillosa 10YR 2/2,Derrumbe y deslave,,,Collapse and Mudslide,
+329,DHS,22 V 14,0.5,84 - 93,0.02,18,N21,15 (parcial),,,Debajo de 323,"tierra limosa sobre piso, Munsell 3/3",Derrumbe y deslave sobre piso de lajas,,,,
+330,DHS,22 V 14,0.5,61 - 72,0.001,18,N22,15,,,Debajo de 328,10 candeleros,depositos de candeleros,,,,x
+331,DHS,23 V 14,0.5,71 - 90,0.57,18,N20,,,,Debajo de 316,Tierra limosa arcillosa 10YR 3/2,Derrumbe y deslave,,,Collapse and Mudslide,
+332,DHS,23 V 14,0.5,71 - 90,0.36,18,M21,,,,Debajo de 325,Tierra limosa arcillosa 10YR 3/2,Derrumbe y deslave sobre piso de lajas,,,,
+333,DHS,23 V 14,0.5,70 - 78,0.2,18,M20,,,,Debajo de 324,Tierra limosa arcillosa 10YR 3/3,Derrumbe y deslave,,,Collapse and Mudslide,
+334,LH,23 V 14,0.5,71 - 81,0.18,18,L21,,,,"debajo de 326, encima de piso de lajas",tierra limosa,derrumbe sobre el piso de lajas,,,,
+335,LH,23 V 14,0.5,70 - 85,0.12,18,L20,,,,"debajo de 327, encima de piso 3",tierra limosa,derrumbe sobre piso 3,,,,
+336,LH,23 V 14,no,12 - 26,0.56,18,K21,,,,"superficie, encima de 338","tierra orgánica, Munsell 10 YR 2/2 Very Dark Brown",superficie,,Soil,Surface,
+337,LH,24 V 14,no,12 - 28,0.64,18,K22,,,,superficie,"tierra orgánica, Munsell 10 YR 2/2 Very Dark Brown",superficie,,Soil,Surface,
+338,LH,24 V 14,0.5,26 - 36,0.4,18,K21,,,,"debajo de 336, encima de 351","tierra orgánica, Munsell 10 YR 2/2 Very Dark Brown",deslave,,,Mudslide,
+339,LH,25 V 14,0.5,28 - 33,0.2,18,K22,,,,debajo de 337,"tierra orgánica, Munsell 10 YR 2/2 Very Dark Brown",nivel sobre piso 1,,,,x
+340,DHS,25 V 14,0.5,71 - 90,0.003,18,M21,,,,Debajo de 325 parejo con 332,Lajas y lajas de pigmento,Concentración de piedras sobre piso de lajas,,,,x
+341,LH,25 V 14,0.5,41 - 81,0.8,18,L22,,,,debajo de 317,concreto de gravilla,piso 2,,,,x
+342,LH,25 V 14,0.5,33,0.001,18,K22,16,,,"debajo de 339, sobre piso 1","tierra orgánica, Munsell 10 YR 2/2 Very Dark Brown",elemento 16 - olla de cerámica sobre piso 1,,,Feature,x
+343,LH,26 V 14,0.5,4 - 11,0.28,18,K23,,,,superficie,tierra orgánica,superficie,,Soil,Surface,
+344,LH,26 V 14,0.5,3 - 10,0.28,18,L23,,,,superficie,tierra orgánica,superficie,,Soil,Surface,
+345,DHS,26 V 14,no,8 -17,0.24,18,M23,,,,Superficie,"tierra organica arcillosa, Munsell 10YR 2/2",zona de arado,Plough zone,,,
+346,DHS,26 V 14,no,9 - 18,0.36,18,N23,,,,Superficie,Tierra orgánica arcillosa. Munsell 10YR 2/2,Zona de arado,Plough zone,,,
+347,GMB,26 V 14,no,14 - 40,1.04,SOTD,P50,,,,superfice,"tierra orgánica y muy arcilla, Munsell 10 YR 2/1 Almost Black","superfice, zona de arado",,,"Surface, plough zone",
+348,GMB,26 V 14,no,15 - 40,1,SOTD,P51,,,,superfice,"tierra orgánica y muy arcilla, Munsell 10 YR 2/1 Almost Black","superfice, zona de arado",,,"Surface, plough zone",
+349,GMB,26 V 14,no,15 - 34,0.76,SOTD,O50,,,,superfice,"tierra orgánica y muy arcilla, Munsell 10 YR 2/1 Almost Black","superfice, zona de arado",,,"Surface, plough zone",
+350,GMB,26 V 14,no,15 - 40,1,SOTD,O51,,,,superfice,"tierra orgánica y muy arcilla, Munsell 10 YR 2/1 Almost Black","superfice, zona de arado",,,"Surface, plough zone",
+351,LH,26 V 14,0.5,36 - 50,0.56,18,K21,,,,"debajo de 338, encima de 356","tierra semi-arcillosa con piedras de derrumbe, Munsell 10 YR 3/2 very dark grayish brown",derrumbe,,,,
+352,LH,26 V 14,0.5,11 - 14,0.12,18,K23,,,,debajo de 343,"tierra semi-arcillosa, Munsell 10 YR 3/2 very dark grayish brown",sobre piso 1,,,,x
+353,LH,26 V 14,0.5,10 - 25,0.6,18,L23,,,,debajo de 344,tierra orgánica,deslave,,,Mudslide,
+354,LH,27 V 14,0.5,33 - 48,0.069,18,K22,,,,"al oeste del muro, debajo de 342","tierra arcillosa-arenosa, Munsell 10 YR 3/3",derrumbe,,,,
+355,LH,27 V 14,0.5,48 - 60,0.0552,18,K22,,,,"al oeste del muro, debajo de 354","tierra arcillosa-arenosa, Munsell 10 YR 3/3",derrumbe,,,,
+356,LH,27 V 14,0.5,50 - 61,0.44,18,K21,,,,debajo de 351,"tierra arcillosa-arenosa, Munsell 10 YR 3/3",derrumbe,,,,
+357,LH,27 V 14,0.5,60 - 81,0.0462,18,L21,,,,"al sur del muro, debajo de 311, encima de 363","tierra arcillosa, Munsell 10 YR 3/2",derrumbe,,,,
+358,LH,27 V 14,0.5,35 - 57,0.03432,18,L22,,,,"en la esquina de los muros, debajo de 341","tierra arcillosa, Munsell 10 YR 3/2",derrumbe,,,,
+359,GMB,27 V 14,0.5,40 - 63,0.92,SOTD,P50,,,,debajo de 347,"tierra arcillosa con muchas raices, Munsell 10 YR 2/1, Almost Black",deslave,,,Mudslide,
+360,GMB,28 V 14,0.5,40 - 63,0.92,SOTD,P51,,,,debajo de 348,"tierra arcillosa con muchas raices, Munsell 10 YR 2/1, Almost Black",deslave,,,Mudslide,
+361,GMB,27 V 14,0.5,34 - 60,1.04,SOTD,O50,,,,debajo de 349,"tierra arcillosa con muchas raices, Munsell 10 YR 2/1, Almost Black; En SW corner Munsell 10 YR 3/4, Light Brown",deslave,,,Mudslide,
+362,GMB,28 V 14,0.5,40 - 63,0.92,SOTD,O51,,,,debajo de 350,"tierra arcillosa con muchas raices, Munsell 10 YR 2/1, Almost Black",deslave,,,Mudslide,
+363,LH,27 V 14,0.5,61 - 70,0.534,18,"K21, partes de K22, L21, L22",17,,,"debajo de 356 (en K21), 357 (en L21), 358 (en L22), 355 (en K22)",tierra arcillosa-arenosa,"elemento 17 - máscara, cerámicas semi-completas",,,Feature,x
+364,LH,27 V 14,0.5,55 - 60,0.065,18,L20,,,,"al sur del muro, debajo de 313?","tierra arcillosa, Munsell 10 YR 3/2","al sur del muro, derrumbe/deslave",,,,
+365,DHS,27 V 14,0.5,17 - 29,0.24,18,M23,,,,Debajo de 345,"tierra semiarcillosa, Munsell 10YR 3/2",deslave,,,Mudslide,
+366,DHS,27 V 14,0.5,18 -30,0.48,18,N23,,,,Debajo de 346,"tierra semi-arcillosa, Munsell 10 YR 3/2 very dark grayish brown",deslave,,,Mudslide,
+367,LH,27 V 14,0.5,60,0.001,18,L20,18,,,debajo de 364,"tierra limosa, Munsell 10 YR 3/3",elemento 18 - small bowls in the corner of walls,,,Feature,x
+368,LH,27 V 14,0.5,70 - 75,0.2968,18,"K21, partes de K22, L21, L22",17,,,debajo de 363,tierra arcillosa-arenosa,elemento 17,X,,Feature,x
+369,LH,27 V 14,0.5,25-44,0.76,18,L23,,,,debajo de 535 al N del muro,tierra arcillosa,norte del muro,,,,x
+370,DHS,28 V 14,0.5,29 - 44,0.64,18,M23,,,,Debajo de 365,"tierra arcillosa con piedras, Munsell 10YR 3/3",deslave y derrumbe,,,Collapse and Mudslide,
+371,DHS,28 V 14,0.5,30 - 51,0.48,18,N23,,,,Debajo de 366,tierra arcillosa con algunas  piedras,deslave y derrumbe,,,Collapse and Mudslide,
+372,LH,28 V 14,0.5,81 - 91,0.004,18,L21,,,,"debajo de 334 al N del muro, encima de lajas",tierra limosa,al norte del muro - derrumbre encima del piso de lajas,,,,
+373,DHS,28 V 14,0.5,80 - 93,0.01,18,N21,,,,"Debajo de y al mismo nivel que 329, encima de piso de lajas","tierra limosa sobre piso, Munsell 3/3",deslave encima de lajas,,,,
+374,DHS,28 V 14,0.5,71 - 156,0.27,18,M21,,,,Debajo de 332 en hoyo sobre piso de lajas,"Tierra arcillosa ariba, Munsell 10YR 3/2 y Tierra limosa compactada abajo, Munsell 10YR 3/3",Pozo de saqueo,,,,x
+375,DHS,28 V 14,0.5,51 - 79,1,18,N23,,,,Debajo de 371,"tierra arcillosa, Munsell 10YR 3/3",Derrumbe y deslave,,,Collapse and Mudslide,
+376,GMB,28 V 14,0.5,63 - 83,0.8,SOTD,P50,,,,debajo de 359,"tierra arcillosa, Munsell 10 YR 2/1, Almost Black",deslave,,,Mudslide,
+377,GMB,29 V 14,0.5,63 - 85,0.88,SOTD,P51,,,,debajo de 360,"tierra arcillosa con cerámicas de San Martin Orange, Munsell 10 YR 2/1, Almost Black",deslave,,,Mudslide,
+378,GMB,29 V 14,0.5,60 - 83,0.92,SOTD,O50,,,,debajo de 361,"tierra arcillosa, Munsell 10 YR 2/1, Almost Black; En SW corner Munsell 10 YR 3/4, Light Brown",deslave,,,Mudslide,
+379,GMB,30 V 14,0.5,63-85,0.88,SOTD,O51,,,,debajo de 362,"tierra arcillosa, Munsell 10 YR 2/1, Almost Black",deslave,,,Mudslide,
+380,DHS,29 V 14,0.5,156 - 205,0.71,18,M21,19,,,Debajo de 374 dentro de hoyo de saqueo,Tierra limosa compactada. Munsell 10YR 3/3,Pozo de saqueo,X,,,x
+381,DHS,29 V 14,0.5,79 - 84,0.18,18,N23,,,,Debajo de 375,tierra arcillosa limosa 10YR 3/3,deslave,,,Mudslide,
+382,DHS,29 V 14,0.5,84 - 125,0.03,18,N23,20,,,Debajo de 381,tierra arcillosa limosa 10YR 3/3,deslave sobre piso,,,,
+383,DHS,29 V 14,0.5,205 - 250,0.5,18,M21,19,,,Debajo de 380,Tierra limosa compactada con carbón y fragmentos de hueso quemado. Munsell 10YR 5/2,"Pozo de saque, contexto para fechar",X,,,x
+384,DHS,29 V 14,0.5,115,0.001,18,N23,20,,,Debajo de 382 en piso 4,"tierra limosa con arena fina, Munsell 10YR 4/3",Vasija completa y vasija semicompleta con navajas de obsidiana,X,,,x
+385,DHS,29 V 14,0.5,93 - 117,0.13,18,N21,,,,Debajo de 373,"tierra arcillosa, Munsell 10YR 3/3",relleno bajo nivel de piso,,,,
+386,DHS,29 V 14,0.5,73 - 107,0.03,18,N22,,,,Debajo de 328 y 330  al NW (a lado de 385),tierra arcillosa 10YR 3/3,relleno bajo nivel de piso,,,,
+387,DHS,29 V 14,no,7 - 25,0.72,18,N24,,,,superficie,"tierra orgánica, Munsell 10 YR 3/3",zona de arado,Plough zone,,,
+388,LH,29 V 14,no,10 - 27,0.68,18,J21,,,,Superficie,,,,,,
+389,LH,30 V 14,no,27 - 40,0.6,18,J22,,,,superficie,"tierra orgánica, Munsell 10 YR 3/3",superficie,,Soil,Surface,
+390,DHS,30 V 14,no,7 - 24,0.68,18,M24,,,,Superficie,"tierra organica arcillosa, Munsell 10YR 2/2",zona de arado,Plough zone,,,
+391,LH,30 V 14,no,15 - 28,0.52,18,J23,,,,superficie,"tierra orgánica, Munsell 10 YR 3/3",superficie,,Soil,Surface,
+392,LH,30 V 14,no,3 -16,0.52,18,L24,,,,superficie,tierra orgánica,superficie,,Soil,Surface,
+393,LH,30 V 14,no,14 - 25,0.44,18,J24,,,,superficie,tierra orgánica,superficie,,Soil,Surface,
+394,LH,30 V 14,no,12 - 26,0.4,18,K24,,,,superficie,tierra orgánica,superficie,,Soil,Surface,
+395,GMB,30 V 14,0.5,83 - 112,1.16,SOTD,P50,,,,debajo de 376,"tierra arcillosa, Munsell 10 YR 2/1, Almost Black",deslave,,,Mudslide,
+396,GMB,2 VI 14,0.5,85 - 112,1.08,SOTD,P51,,,,debajo de 377,"tierra arcillosa con cerámicas de San Martin Orange, Munsell 10 YR 2/1, Almost Black",deslave,,,Mudslide,
+397,GMB,2 VI 14,0.5,83 - 112,1.16,SOTD,O50,,,,debajo de 378,"tierra arcillosa, Munsell 10 YR 2/1, Almost Black",deslave,,,Mudslide,
+398,GMB,3 VI 14,0.5,85 - 113,1.12,SOTD,O51,,,,debajo de 379,"tierra arcillosa, Munsell 10 YR 2/1, Almost Black",deslave,,,Mudslide,
+399,LH,3 VI 14,0.5,25 - 33,0.32,18,J24,,,,debajo de 393,tierra arcillosa,deslave,,,Mudslide,
+400,DHS,30 V 14,0.5,25 - 45,0.56,18,N24,,,,Debajo de 387,tierra arcillosa con piedras lado W y arcillosa compactada al E,deslave y derrumbe lado W y relleno lado E,,,,
+401,LH,30 V 14,0.5,26 - 37,0.48,18,K24,,,,debajo de 394,tierra arcillosa,deslave,,,Mudslide,
+402,DHS,31 V 14,0.5,45 - 74,0.44,18,N24,,,,Debajo de 400 al W del muro,"tierra arcillosa limosa, Munsell 10YR 2/2",deslave y derrumbe,,,Collapse and Mudslide,
+403,DHS,31 V 14,0.5,45 - 70,0.34,18,N24,,,,Debajo de 400 al E del muro,"tierra arcillosa compactada, Munsell 10YR 2/2",relleno,,,Fill,
+404,LH,31 V 14,0.5,16 - 30,0.56,18,L24,,,,debajo de 392,tierra arcillosa,derrumbe,,,,
+405,DHS,31 V 14,0.5,70 - 84,0.21,18,N24,,,,"Debajo de 402 al W del muro, encima de Piso 4","tierra arcillosa con piedras, Munsell 10YR 2/2",derrumbe y deslave,,,Collapse and Mudslide,
+406,DHS,31 V 14,0.5,24 - 36,0.48,18,M24,,,,Debajo de 390,"tierra arcillosa, Munsell 10YR 2/2",deslave,,,Mudslide,
+407,DHS,31 V 14,0.5,70 - 90,0.39,18,N24,,,,Debajo de 403 al E del muro,"tierra arcillosa compactada, Munsell 10YR 2/2",relleno,,,Fill,
+408,LH,2 VI 14,0.5,28 - 33,0.2,18,J23,,,,debajo de 391,tierra orgánica 10 YR 3/3,deslave,,,Mudslide,
+409,DHS,2 V1 14,0/5,36 - 45,0.12,18,M24,,,,"Debajo de 406, encima del Piso 2","tierra arcillosa, Munsell 10YR 2/2",derumbe y deslave,,,Collapse and Mudslide,
+410,LH/DHS,2 VI 14,0.5,30 - 34,0.16,18,L24,,,,"debajo de 404, encima de piso 2",tierra arcillosa con tierra compactada (Munsell 10 YR 2/2),derrumbe y deslave,,,Collapse and Mudslide,
+411,LH,2 VI 14,0.5,27 - 40,0.52,18,J22,,,,debajo de 389,tierra arcillosa,deslave,,,Mudslide,
+412,DHS,2 VI 14,0.5,44 - 62,0.53,18,"M23-24, L23-24",21,,,"Debajo de 370, 409, 369 y 404, dentro de Piso 2","tierra arcillosa, Munsell 10YR 3/2",Pozo de saqueo,,,,x
+413,DHS,2 VI 14,0.5,62 - 67,0.12,18,"M23-24, L23-24",21,,,Debajo de 412 dentro de Piso 2,"tierra arcillosa, Munsell 10YR 3/2",Pozo de saqueo,,,,x
+414,LH,2 VI 14,0.5,27 - 43,0.66,18,J21,,,,debajo de 387,tierra arcillosa,deslave,,,Mudslide,
+415,GMB,3 VI 14,0.5,112 - 130,0.72,SOTD,P50,,,,debajo de 395,"tierra arcillosa, Munsell 10 YR 2/1, Almost black",deslave,,,Mudslide,
+416,GMB,3 VI 14,0.5,112 - 131,0.76,SOTD,P51,,,,debajo de 396,"tierra arcillosa, Munsell 10 YR 2/1, Almost black",deslave,,,Mudslide,
+417,GMB,3 VI 14,0.5,112 - 131,0.76,SOTD,O50,,,,debajo de 397,"tierra arcillosa, Munsell 10 YR 2/1, Almost black",deslave,,,Mudslide,
+418,GMB,4 VI 14,0.5,113 - 132,0.76,SOTD,O51,,,,debajo de 398,"tierra arcillosa, Munsell 10 YR 2/1, Almost black",deslave,,,Mudslide,
+419,LH,2 VI 14,0.5,43 - 69,0.2504,18,J21,17,,,"debajo de 414, al norte del muro, incluye parte de J22",tierra arcillosa,elemento 17,,,Feature,x
+420,LH,2 VI 14,0.5,73 - 138,0.1696,18,J21,22,,,debajo de 419,tierra arcillosa,elemento 22 - hueco en el piso de lajas al norte del muro,,,Feature,x
+421,DHS,2 VI 14,0.5,67 - 90,0.58,18,"M23-24, L23-24",21,,,Debajo de 413,"tierra arcillosa, Munsell 3/2",Pozo de saqueo,,,,x
+422,LH,2 VI 14,0.5,138 - 185,0.1328,18,J21,22,,,debajo de 420,"tierra suelta y limosa, Munsell 10 YR 4/3 brown",elemento 22,,,Feature,x
+423,LH,3 VI 14,0.5,69 - 81,0.264,18,J21,,,,Debajo de 419 al S del muro,"tierra limosa, Munsell 10YR 4/3",deslave,,,Mudslide,
+424,LH,3 VI 14,0.5,40 - 67,0.59,18,J22,,,,Debajo de 411 al S del muro,"tierra arcillosa, Munsell 10YR 3/3",deslave,,,Mudslide,
+425,GMB,4 VI 14,0.5,18 - 50,1.28,SOTD,P52,,,,superfice,"tierra orgánica y muy arcillosa, Munsell 10 YR 2/1, Almost black","superfice, zona de arado",,,"Surface, plough zone",
+426,GMB,4 VI 14,0.5,12- 42,1.2,SOTD,P53,,,,superfice,"tierra orgánica y muy arcillosa, Munsell 10 YR 2/1, Almost black","superfice, zona de arado",,,"Surface, plough zone",
+427,GMB,4 VI 14,0.5,130 - 164,1.36,SOTD,P50,,,,debajo de 415,"tierra arcillosa, Munsell 10 YR 2/1, Almost Black",deslave,,,Mudslide,
+428,GMB,5 VI 14,0.5,131 - 166,1.4,SOTD,P51,,,,debajo de 416,"tierra arcillosa con ollas de Azteca, Munsell 10 YR 2/1, Almost Black",deslave,,,Mudslide,
+429,GMB,-,-,-,--,SOTD,O50,,,,debajo de 417,sin excavar,sin excavar,,,,
+430,GMB,4 VI 14,0.5,132 - 163,1.24,SOTD,O51,,,,debajo de 418,"tierra arcillosa, Munsell 10 YR 2/1, Almost black",derumbe y deslave,,,Collapse and Mudslide,
+431,GMB,5 VI 14,0.5,50 - 66,0.64,SOTD,P52,,,,debajo de 425,"tierra arcillosa, Munsell 10 YR 2/1, Almost black",deslave,,,Mudslide,
+432,GMB,5 VI 14,0.5,42 - 67,1,SOTD,P53,,,,debajo de 426,"tierra muy arcillosa, Munsell 10 YR 2/1, Almost black",deslave,,,Mudslide,
+433,DHS/LH,5 VI 14,0.5,90 - 121,0.79,18,"M23-24, L23-24",21,,,Debajo de 421,"tierra suelta arcillosa, Munsell 10YR 5/3",relleno no arquitectonico en pozo de saqueo,,,,
+434,DHS/LH,5 VI 14,0.5,121 - 138,0.43,18,"M23-24, L23-24",21,,,Debajo de 433,tierra limosa arenosa,relleno en pozo de saqueo,,,,
+435,DHS/LH,5 VI 14,0.5,138 - 154,0.4,18,"M23-24, L23-24",21,,,Debajo de 434,"tierra limosa con carbon, Munsell 5/2",relleno en pozo de saqueo,X,,,
+436,GMB,5 VI 14,0.5,67 -94,1.08,SOTD,P53,,,,debajo de 432,"tierra arcillosa, Munsell 10 YR 2/1, Almost black",deslave,,,Mudslide,
+437,GMB,5 VI 14,0.5,166 - 185,0.76,SOTD,P51,,,,debajo de 428,"tierra arcillosa con ollas de Azteca, Munsell 10 YR 2/1, Almost Black",deslave,,,Mudslide,
+438,LH,5 VI 14,0.5,,0.002,18,L21,,,,canal pasando por el muro - connectando 357 y 372,tierra arcillosa,relleno del canal pasando por muro encima del empedrado,,,,
+439,DHS,5 VI 14,no,4 - 22,0.72,18,N25,,,,Superficie,"tierra orgánica con raíces, Munsell 10YR2/2",Zona de arado,Plough zone,,,
+440,GMB,6 VI 14,0.5,185 - 190,0.2,SOTD,P51,,,,debajo de 437,"moldeada de tierra arcillosa con piedras (Munsell 10 YR 3/2, very dark brown) y tierra arenoso (Munsell 10 YR 3/3, dark brown)",nivel de ocupción de la Calle de los Muertos,,,,x
+441,GMB,6 VI 14,0.5,190 - 216,1.04,SOTD,P51,,,,debajo de 440,"moldeada de tierra arcillosa (Munsell 10 YR 3/2, very dark brown) y tierra arenoso (Munsell 10 YR 3/3, dark brown)",nivel de ocupción de la Calle de los Muertos,,,,x
+442,GMB,6 VI 14,0.5,216 - 222,0.24,SOTD,P51,,,,debajo de 441,"moldeada de tierra arenoso (Munsell 10 YR 3/4, dark yellowish brown) y un poco tierra arcillosa (Munsell 10 YR 3/2, very dark brown)",nivel de ocupción de la Calle de los Muertos,,,,x
+443,DHS,7 VI 14,no,5 - 18,0.52,18,M25,,,,Superficie,"tierra orgánica arcillosa, Munsell 10 YR 2/2 very dark brown",zona de arado,Plough zone,,,
+444,DHS,7 VI 14,no,Superficie,0.32,18,L25,,,,Superficie,"tierra orgánica con raíces, Munsell 10YR2/2",zona de arado,Plough zone,,,
+445,DHS,7 VI 14,no,Superficie,0.2,18,K25,,,,Superficie,"tierra orgánica con raíces, Munsell 10YR2/2",zona de arado,Plough zone,,,
+446,DHS,7 VI 14,no,Superficie,0.2,18,J25,,,,Superficie,"tierra organica arcillosa, Munsell 10YR 2/2",zona de arado,Plough zone,,,
+447,GMB,7 VI 14,0.5,164 - 188,0.96,SOTD,P50,,,,debajo de 427,"tierra arcillosa, Munsell 10 YR 2/1, Almost black",deslave,,,Mudslide,
+448,DHS,7 VI 14,0.5,22 - 40,0.72,18,N25,,,,debajo de 439,"tierra suelta un poco arcillosa, Munsell 10YR 2/2",deslave,,,Mudslide,
+449,GMB,9 VI 14,0.5,188 - 200,0.48,SOTD,P50,,,,debajo de 447,"moldeada de tierra arcillosa (Munsell 10 YR 3/2, very dark brown) y tierra arenoso (Munsell 10 YR 3/3, dark brown)",nivel de ocupción de la Calle de los Muertos,,,,x
+450,DHS,9 VI 14,0.5,18 - 39,0.84,18,M25,,,,debajo de 443,"tierra orgánica arcillosa, Munsell 10 YR 2/2 very dark brown",deslave,,,Mudslide,
+451,GMB,9 VI 14,0.5,200 - 222,0.88,SOTD,P50,,,,debajo de 449,"moldeada de tierra arenoso (Munsell 10 YR 3/4, dark yellowish brown) y tierra arcillosa (Munsell 10 YR 3/2, very dark brown)",nivel de ocupción de la Calle de los Muertos,,,,x
+452,DHS,9 VI 14,0.5,17 - 40,1.16,18,L25,,,,Debajo de 444,"tierra suelta un poco arcillosa, Munsell 10YR 2/2",deslave,,,Mudslide,
+453,DHS,9 VI 14,0.5,23 - 33,0.78,18,K25,,,,debajo de 445,"tierra suelta un poco arcillosa, Munsell 10YR 2/2",deslave,,,Mudslide,
+454,DHS,9 VI 14,0.5,9 - 34,0.68,18,J25,,,,debajo de 446,"tierra arcillosa, Munsell 10YR 2/2",deslave,,,Mudslide,
+455,DHS,9 VI 14,0.5,33 - 48,0.09,18,K25,,,,debajo de 453 al E del muro,"tierra arcillosa, Munsell 10YR 2/2",derrumbe y deslave,,,Collapse and Mudslide,
+456,DHS,9 VI 14,0.5,34 - 57,1.04,18,J25,,,,debajo de 454,"tierra arcillosa, Munsell 10YR 2/2",derrumbe y deslave,,,Collapse and Mudslide,
+457,DMC,9 VI 14,0.5,33 - 61,1.02,18,J23,,,,debajo de 408,"tierra arcillosa con un poco de limo, Munsell 10YR 3/2",deslave,,,Mudslide,
+458,DHS,10 VI 14,0.5,40 - 55,0.6,18,,,,,debajo de 452,"tierra arcillosa, Munsell 10YR 2/2",deslave,,,Mudslide,
+459,GMB,10 VI 14,0.5,7- 33,1.04,SOTD,P54,,,,superfice,"tierra orgánica con raices y muy arcillosa, Munsell 10 YR 2/1, Almost black","superfice, zona de arado",,,"Surface, plough zone",
+460,GMB,10 VI 14,0.5,33-56,0.92,SOTD,P54,,,,debajo de 459,"tierra muy arcillosa con raices (Munsell 10 YR 2/1, almost black)",deslave,,,Mudslide,
+461,DHS,10 VI 14,0.5,34 - 53,0.285,18,L24,,,,debajo de 410,tierra arcillosa compactada,derrumbe y deslave,,,Collapse and Mudslide,
+462,DHS,10 VI 14,0.5,33 - 55,0.7,18,J24,,,,debajo de 399,"tierra arcillosa, Munsell 10YR 3/2",deslave,,,Mudslide,
+463,DHS,10 VI 14,0.5,40 - 52,0.48,18,N25,,,,debajo de 448,"tierra arcillosa, Munsell 10YR 2/2",derrumbe y deslave,,,Collapse and Mudslide,
+464,DHS,10 VI 14,0.5,39 - 53,0.56,18,M25,,,,debajo de 450,"tierra arcillosa con poco de ceniza y limo, Munsell 10YR 4/3",deslave,,,Mudslide,
+465,DHS,10 VI 14,0.5,37 - 48,0.154,18,K24,,,,debajo de 401 al E del muro,"tierra arcillosa, Munsell 10YR 2/2","relleno, posible ultimo nivel de ocupacion",,,,
+466,DHS,11 VI 14,0.5,30 - 51,0.36,18,K25,,,,debajo de 453 al W del muro,"tierra arcillosa, Munsell 10YR 3/2",derrumbe y deslave,,,Collapse and Mudslide,
+467,GMB,11 VI 14,0.5,56-93,1.48,SOTD,P54,,,,debajo de 460,"tierra muy arcillosa con ollas de Azteca (Munsell 10 YR 2/1, almost black)",deslave,,,Mudslide,
+468,DHS,11 VI 14,0.5,52 - 107,0.48,18,N25,23,,,debajo de 463,"tierra arcillosa con carbon, Munsell 10YR 3/2",relleno tardio,X - 2 samples,,,
+469,DHS,11 VI 14,0.5,45 - 72,0.38,18,M24,,,,debajo de 390 al E del muro,"tierra arcillosa, Munsell 10YR 2/2",deslave,,,Mudslide,
+470,DHS,11 VI 14,0.5,52 - 70,0.115,18,N25 y 24,,,,debajo de 448,"tierra arcillosa, Munsell 10YR 3/2",derrumbe de muro posterior,,,,
+471,GMB,11 VI 14,0.5,93-108,0.6,SOTD,P54,,,,debajo de 467,"tierra arcillosa (Munsell 10 YR 2/1, almost black)",deslave,,,Mudslide,
+472,DHS,11 VI 14,0.5,55 - 71,0.51,18,J24,,,,debajo de 462,"tierra arcillosa con gravilla y adobes, Munsell 10YR 3/2",relleno y deslave,,,Fill and mudslide,
+473,DHS,11 VI 14,0.5,107 - 128,0.17,18,N25,23,,,"debajo de 468, en Elemento 23","tierra arcillosa, Munsell 10YR 3/2",relleno,,,Fill,
+474,GMB,12 VI 14,0.5,4-34,0.3,SOTD,P55 SW,,,,superfice,"tierra orgánica con raices y muy arcillosa (Munsell 10 YR 2/1, Almost black)","superfice, zona de arado",,,"Surface, plough zone",
+475,DHS,12 VI 14,0.5,52 - 70,0.11,18,N25,,,,debajo de 463,"tierra arcillosa, Munsell 3/2",nivel de ocupacion posclasico,,,,x
+476,DHS,12 VI 14,0.5,61 - 72,0.57,18,J23,,,,debajo de 457,"tierra arcillosa con adobes, Munsell 10YR 3/2",deslave y derrume,,,Collapse and Mudslide,
+477,GMB,12 VI 14,0.5,34-70,0.36,SOTD,P55 SW,,,,debajo de 474,"tierra muy arcillosa con raices (Munsell 10YR 2/1, almost black)",deslave,,,Mudslide,
+478,GMB,12 VI 14,0.5,70-97,0.27,SOTD,P55 SW,,,,debajo de 477,"tierra arcillosa (Munsell 10 YR 2/1, Almost black)",deslave,,,Mudslide,
+479,DHS,12 VI 14,0.5,67 - 92,0.55,18,J22,,,,debajo de 424,"tierra arcillosa y adobes, Munsell 10YR 3/2",deslave y derrume,,,Collapse and Mudslide,
+480,DHS,12 VI 14,0.5,70 - 81,0.264,18,N25,,,,debajo de 475,"tierra limosa compactada, Munsell 10YR 4/3",relleno,,,Fill,
+481,GMB,12 VI 14,0.5,0-25,0.25,SOTD,O55 NW,,,,superfice,"tierra orgánica con raices y muy arcillosa (Munsell 10 YR 2/1, Almost black)","superfice, zona de arado",,,"Surface, plough zone",
+482,GMB,12 VI 14,0.5,25-66,0.41,SOTD,O55 NW,,,,debajo de 481,"tierra arcillosa (Munsell 10 YR 2/1, almost black)",deslave,,,Mudslide,
+483,DHS,12 VI 14,0.5,90 - 101,0.143,18,N24,,,,debajo de 407,"tierra limosa compactada, Munsell 10YR 4/3",relleno,,,Fill,
+484,DHS,12 VI 14,0.5,101 - 110,0.117,18,N24,,,,debajo de 407 al E del muro,"tierra limosa compactada, Munsell 10YR 3/2",relleno,,,Fill,
+485,DHS,12 VI 14,0.5,81 - 93,0.26,18,J21,,,,debajo de 423,"tierra limosa compactada, Munsell 10YR 3/2",relleno,,,Fill,
+486,DHS,12 VI 14,0.5,57 - 73,0.79,18,J25,,,,debajo de 456,"tierra arcillosa, Munsell 10YR 3/2",derrumbe y deslave,,,Collapse and Mudslide,
+487,DHS,12 VI 14,0.5,53 - 76,0.92,18,M25,,,,debajo de 464,"tierra arcillosa, Munsell 10YR 3/2",deslave,,,Mudslide,
+488,GMB,12 VI 14,0.5,66-97,0.31,SOTD,O55 NW,,,,debajo de 482,tierra arcillosa (Munsell 10 YR 2/1),deslave,,,Mudslide,
+489,DHS,12 VI 14,0.5,25,0.01,18,J24,,,,debajo de 393,"tierra arcillosa, Munsell 10YR 5/3",derrumbe,,,,
+490,DHS,12 VI 14,0.5,72 - 91,0.22,18,M24,,,,debajo de 469 al E del muro,"tierra arcillosa, Munsell 10YR 3/2",nivel de ocupacion posclasico,,,,x
+491,DHS,12 VI 14,0.5,55 - 78,0.79,18,L25,,,,debajo de 458,"tierra arcillosa, Munsell 10YR 3/2","derrumbe y desalve, nivel de ocupacion posclasico",,,,
+492,DHS,12 VI 14,0.5,48 - 74,0.36,18,K24,,,,debajo de 465,"tierra arcillosa con un poco de limo y ceniza, Munsell 10YR3/2",nivel de ocupacion posclasico,X,,,x
+493,DHS,12 VI 14,0.5,51 - 82,0.52,18,K25,,,,debajo de 455 y 466,"tierra arcillosa, Munsell 10YR 3/2 ",derrumbe y deslave,,,Collapse and Mudslide,
+494,DHS,12 VI 14,0.5,53 - 76,0.345,18,L24,,,,debajo de 461,"tierra arcillosa, Munsell 3/2",nivel de ocupacion posclasico,,,,x
+495,DHS,12 VI 14,0.5,71 - 90,0.51,18,J24,,,,debajo de 472,"tierra arcillosa y limosa, Munsell 10YR5/3",derrumbe y deslave,,,Collapse and Mudslide,
+496,DHS,14 VI 14,0.5,78 - 93,0.25,18,L25,,,,debajo de 491,"tierra arcillosa con gravilla, Munsell 10YR 5/3",nivel de ocupacion posclasico,,,,x
+497,DHS,14 VI 14,0.5,75,0.001,18,M25,24,,,debajo de 487,"tierra arcillosa, Munsell 10YR 5/3","vasija con pigmento rosa, nivel de ocupacion posclasico",,,,x
+498,DHS,14 VI 14,0.5,90,0.001,18,J24,25,,,debajo de 495,"tierra arcillosa y arena, Munsell 10YR 5/3","Elemento 25, entierro",,,Feature,x
+499,DHS,14 VI 14,0.5,76 - 82,0.09,18,L24,,,,debajo de 494,"tierra arcillosa, Munsell 5/3",nivel de ocupacion posclasico,,,,x
+500,DHS,14 VI 14,0.5,91 - 102,0.13,18,M24,,,,debajo de 490,"tierra arcillosa, Munsell 3/2",deslave,,,Mudslide,
+501,DHS,14 VI 14,0.5,74 - 78,0.056,18,K24,,,,debajo de 492,"tierra arcillosa, Munsell 10YR3/2",deslave,,,Mudslide,
+502,DHS,14 VI 14,0.5,76 - 87,0.44,18,M25,24,,,debajo de 497,"tierra arcillosa, Munsell 10YR 5/3","nucleo de obsidiana, hueso, frag de vasijas y candeleros",,,,
+503,DHS,14 VI 14,0.5,82 - 96,0.32,18,K25,,,,debajo de 493,"tierra arcillosa, Munsell 10YR 3/2",derrumbe y deslave,,,Collapse and Mudslide,
+504,DHS,14 VI 14,0.5,73 - 86,0.11,18,J25,,,,debajo de 486,tierra arcillosa 5/3,derrumbe y deslave,,,Collapse and Mudslide,
+505,DHS,14 VI 14,0.5,102 - 112,0.21,18,M24,,,,debajo de 500,"tierra arcillosa, Munsell 5/3",deslave,,,Mudslide,
+506,DHS,14 VI 14,0.5,82 - 97,0.225,18,L24,,,,debajo de 499,"tierra arcillosa con ceniza, Munsell 5/2",deslave y derrumbe,,,Collapse and Mudslide,
+507,DHS,14 VI 14,0.5,87 - 100,0.078,18,M25,,,,debajo de 497,"tierra arcillosa con ceniza, Munsell 10YR 4/3",deslave,,,Mudslide,
+508,DHS,14 VI 14,0.5,93 -98,0.5,18,L25,,,,debajo de 496,"tierra arcillosa, Munsell 10YR 4/3",derrumbe y deslave,,,Collapse and Mudslide,
+509,DHS,14 VI 14,0.5,86 - 96,0.08,18,J25,,,,debajo de 504,"tierra arcillosa, Munsell 10YR 5/3",derrumbe y deslave,,,Collapse and Mudslide,
+510,DHS,14 VI 14,0.5,96 - 103,0.001,18,J25,26,,,"debajo de 504, parejo con 509","ceramica y tierra arcillosa, Munsel 10YR 5/3",vasijas completas y semicompletas,X,,,x
+511,DHS,16 VI 14,0.5,90 - 108,0.489,18,J24,,,,"debajo de 495, parejo con 498","tierra arcillosa, Munsell 10YR 5/3",basurero,,,,x
+ ,DHS,16 VI 14,0.5,81 - 100,0.456,18,N25,,,,debajo de 480,"tierra arcillosa, Munsell 10YR 5/3",derrumbe y deslave,,,Collapse and Mudslide,
+513,DHS,16 VI 14,0.5,78 - 95,0.23,18,K24,,,,debajo de 501 al este de muro,tierra arcillosa muy compactada (10YR 2/2),nivel de ocupación,,,,x
+514,DHS,16 VI 14,0.5,100 - 114,0.314,18,N25,,,,debajo de 512,"tierra limosa y arcillosa, Munsell 10YR 5/3",derrumbe y deslave,,,Collapse and Mudslide,
+515,DHS,16 VI 14,no,12 - 24,0.64,18,I21,,,,superficie,"tierra organica arcillosa, Munsell 10YR 2/2",zona de arado,Plough zone,,,
+516,DHS,16 VI 14,no,12 -23,0.16,18,I22,,,,superficie,"tierra organica arcillosa, Munsell 10YR 2/2",zona de arado,Plough zone,,,
+517,DHS,16 VI 14,0.5,96 - 105,0.17,18,K25,,,,debajo de 503,"tierra arcillosa, Munsell 10YR 3/2",derrumbe y deslave,,,Collapse and Mudslide,
+518,DHS,16 VI 14,0.5,85,0.08,18,N24,,,,debajo de 402,"tierra arcillosa, Munsell 10YR 3/2",relleno constructivo bajo piso,,,,
+519,DHS,16 VI 14,0.5,110 - 120,0.13,18,N24,,,,debajo de 484,"tierra arcillosa con algunas piedras, Munsell 10YR 5/3",derrumbe y deslave,,,Collapse and Mudslide,
+520,DHS,16 VI 14,0.5,100 - 108,0.048,18,M25,,,,debajo de 507,"tierra arcillosa con arena, Munsell 10YR 5/3",derrumbe y deslave,,,Collapse and Mudslide,
+521,DHS,16 VI 14,0.5,24 - 40,0.4,18,I21,,,,debajo de 515,"tierra arcillosa, Munsell 2/2",nivel de ocupacion,,,,x
+522,DHS,18 VI 14,0.5,23 - 41,0.78,18,I22,,,,debajo de 516,"tierra arcillosa, Munsell 2/2",nivel de ocupacion,,,,x
+523,DHS,18 VI 14,0.5,112 - 122,0.12,18,M24,,,,debajo de 505,"tierra arcillosa con arena, Munsell 10YR 5/3",derrumbe y deslave,,,Collapse and Mudslide,
+524,AH,18 VI 14,0.5,11-19,0.32,18,N26,,,,superficie,tierra orgánica arcillosa (Munsell 10YR 2/2 - very dark brown),zona de arado,Plough zone,,,
+525,AH,18 VI 14,No,8-21,0.52,18,M26,,,,superficie,tierra orgánica arcillosa (Munsell 10YR 2/2 - very dark brown),zona de arado,Plough zone,,,
+526,DHS,18 VI 14,0.5,41 - 50,0.36,18,I22,,,,debajo de 522,"tierra arcillosa y adobes, Munsell 10YR 2/2",nivel de ocupacion,,,,x
+527,DHS,18 VI 14,0.5,97 - 127,0.45,18,L24,,,,debajo de 506,"tierra arcillosa con arena, Munsell 10YR 5/2",deslave,X,,Mudslide,
+528,AH,18 VI 14,0.5,19-43,0.96,18,N26,,,,debajo de 524,tierra arcillosa (Munsell 10YR 2/2 - very dark brown) con piedras grandes,derrumbe y deslave,,,Collapse and Mudslide,
+529,AH,18 VI 14,0.5,21-42,0.84,18,M26,,,,debajo de 525,tierra arcillosa (Munsell 10YR 2/2),derrumbe y deslave,,,Collapse and Mudslide,
+530,DHS,18 VI 14,0.5,40 - 48,0.102,18,I21,,,,debajo de 521,"arena de rio, Munsell 10YR 3/2",nivel de ocupacion,,,,x
+531,GMB,18 VI 14,0.5,14 - 44,0.6,18,K23,,,,"debajo de 352, al NW dentro de Piso 1; 1x1 area","piso gravilla con tierra compacta (Munsell 10 YR 5/4, yellowish brown)",piso uno y base de piso,,,,x
+532,GMB,18 VI 14,0.5,44-74,0.6,18,K23,,,,debajo de 531 al NW dentro de Piso 2; 1x1 M,"piso base gravilla con tierra compacta y bastante quemado (Munsell 10 YR 5/4, yellowish brown) con capa delgada de aplenado (Munsell 10 YR 2/1, almost black)",piso dos y base de piso muy compactado,,,,x
+533,DHS,18 VI 14,0.5,41 - 53,0.012,18,I22,,,,debajo de 522,"tierra arcillosa, Munsell 10YR 4/3",nivel de ocupacion,,,,x
+534,DHS,18 VI 14,0.5,48 - 69,0.071,18,I21,,,,debajo de 530,"tietta arenosa, Munsell 10YR 3/2",relleno,,,Fill,
+535,GMB,18 VI 14,0.5,74-76,0.04,18,K23,,,,debajo de 532 al NW; 1x1 M,"moldeada de piso base gravilla (10 YR 5/4, yellowish brown) con tierra arenoso (10 YR 6/4, dark brown.) En esquina NE, tierra limoso (10 YR 3/4)","relleno de constructión de piso 2, y piso 3",,,,
+536,DHS,18 VI 14,0.5,50 - 69,0.76,18,I22,,,,debajo de 526,"tierra arcillosa y tierra arenosa, Munsell 10YR 3/2",relleno,X,,Fill,
+537,AH,18 VI 14,0.5,43-50,0.28,18,N26,,,,debajo de 528,tierra arcillosa (Munsell 10YR 2/2 - very dark brown) sobre piso 1 (piso de tierra compacta); piedras en la esquina suroeste,nivel de ocupación debajo de derrumbe y deslave,,,,x
+538,AH,19 VI 14,0.5,42-52,0.4,18,M26,,,,debajo de 529,tierra arcillosa (Munsell 10YR 2/2),derrumbe y deslave sobre un nivel de ocupación (Piso 1 de tierra compacta),,,,
+539,DHS,19 VI 14,0.5,82 y 92,0.001,18,I22,27,,,debajo de 536,"tierra suelta y arcillosa y arena de rio, Munsell 10YR 3/2","Elemento 27, entierro y vasijas",,,Feature,x
+540,GMB,19 VI 14,0.5,44 - 55,0.11,18,L23,,,,debajo de piso 1 y base,"En oeste parte de unidad: piso base gravilla con tierra compacta (10 YR 5/4, yellowish brown.) En este parte tierra limoso (10YR 4/6, dark yellowish brown)",Piso 1 y base de piso muy compactado,,,,x
+541,GMB,19 VI 14,0.5,55 - 70,0.15,18,L23,,,,debajo de 540 - piso 2 y base,"En oeste parte de unidad: piso baso gravilla con tierra compacta (10YR 5/4, yellowish brown.) En este parte: tierra limosa (Munsell 10YR 4/6, dark yellowish brown)",piso 2 y base de piso,X,,,x
+542,GMB,19 VI 14,0.5,70 -74,0.4,18,L23,,,,debajo de 541,"modeada piso base gravilla (Munsell 10 YR 5/4, yellowish brown) con tierra arenoso (10YR 6/4, dark brown.) En esquina SE: tierra limosa (10 YR 3/4)","relleno de constructión de piso 2, y piso 3",X,,,
+543,AH,19 VI 14,0.5,96-110,0.5,18,L25,,,,debajo de 508,tierra arcillosa (Munsell 10YR 5/3 -  brown),nivel de ocupación; deslave sobre un piso de tierra compacta; incluye un muro,,,,x
+544,DHS,19 VI 14,0.5,97,0.001,18,I22,27,,,debajo de 539,"tierra suelta y arcillosa y arena de rio, Munsell 10YR 3/2","Elemento 27, vasijas bajo entierro",,,Feature,x
+545,GMB,19 VI 14,0.5,24 - 44,0.12,18,K24,,,,debajo de 401; piso 1 y base,piso base gravilla con tierra compactada (Munsell 3/3 dark brown),piso 1 y base de piso muy compactado,,,,x
+546,GMB,19 VI 14,0.5,44 - 66,0.13,18,K24,,,,debajo de 545; piso 1 y base,"moldeada piso base gravilla con tierra compactada (Munsell 10 YR 5/4, yellowish brown) y tierra limosa (Munsell 10 YR 3/3, dark brown) con capa delgada de aplenado (10YR 2/1, almost black)",piso 2 y base de piso,,,,x
+547,GMB,19 VI 14,0.5,66 - 71,0.03,18,K24,,,,debajo de 546,"tierra arrenoso (10 YR 4/4, dark yellowish brown)",relleno de construción de piso 2; piso 3,,,,
+548,GMB,19 VI 14,0.5,34 - 45,0.03,18,L24,,,,debajo de 410; piso 1 y base de piso,"piso base gravilla con tierra compactada (Munsell 10 YR 3/3, dark brown)",piso 1 y base de piso muy compactado,,,,x
+549,GMB,19 VI 14,0.5,45 - 67,0.06,18,L24,,,,debajo de 548;  piso 1 y base,"piso base gravilla con tierra compactada bastante quemoda (Munsell 10 YR 5/6, yellowish brown) con capa delgada de aplenado (Munsell 10 YR 2/1, almost black)",piso 2 y base de piso,,,,x
+550,GMB,19 VI 14,0.5,67 - 73,0.02,18,L24,,,,debajo de 549,tierra arenoso (Munsell 10 YR 4/4 - dark yellowish brown),relleno de construción de piso 2; piso 3,,,,
+551,AH,19 VI 14,0.5,112-115,0.001,18,L25,29,,,debajo de 543,tierra arcillosa (Munsell 10YR 5/3 - brown),elemento 29; nivel de ocupación; deslave sobre un piso de tierra compacta,,,Feature,x
+552,DHS,19 VI 14,0.5,92 - 107,0.06,18,J22,,,,debajo de 479,"tierra arcillosa con piedras pequenas, Munsell 10YR 3/3",relleno constructivo bajo piso,,,,
+553,DHS,19 VI 14,0.5,95-107,0.36,18,K24,,,,debajo de 513,tierra arcillosa muy compactada (10YR 2/2),nivel de ocupación,,,,x
+554,GMB,21 VI 14,0.5,87 - 100,0.14,18,K23-24; L23-24,28,,,dentro del piso 3 de la Est. 18 B. Debajo de 550,"tierra limosa (10YR 3/4, dark yellowish brown)",elemento 28; fosa en piso 3 con dos candeleros y uno aldisador,,,Feature,x
+555,DHS,21 VI 14,0.5,93 - 108,0.115,18,J21,,,,debajo de 485,"tierra arcillosa, Munsell 10YR 3/4",derrume y deslave,,,Collapse and Mudslide,
+556,AH,21 VI 14,0.5,105 - 116,0.16,18,K25,,,,debajo de 517,tierra arcillosa (10YR 5/3 - brown),nivel de ocupación con un piso de tierra compacta y muros de piedra,,,,x
+557,GMB,21 VI 14,0.5,100 -112,0.13,18,K23-24; L23-24,28,,,debajo de 554 en elemento,tierra limosa (10 YR 4/3-brown),fosa en piso 3; sobre de piso 4 con uno candelero,,,,x
+558,AH,21 VI 14,0.5,84-100,0.2,18,J25,,,,debajo de 510,tierra arcillosa (10YR 5/3 - brown),nivel de ocupación con un piso de tierra compacta (y un parte del piso de cemento),,,,x
+559,DHS,21 VI 14,0.5,72 - 87,0.33,18,J23,,,,debajo de 476,"tierra arcillosa con algunas piedras, Munsell 10YR 3/2",derrume y deslave,,,Collapse and Mudslide,
+560,GMB,21 VI 14,no,8 - 30,1.2,18,I20,,,,superfice,"tierra orgánica (10 YR 2/2, very dark brown)","superfice, zona de arado",,,"Surface, plough zone",
+561,AH,23 VI 14,0.5,50-70,0.46,18,N26,,,,debajo de 537,tierra arenosa (10 YR 4/3 - brown) sobre un nivel de gravilla,nivel de ocupación (Piso 2 de tierra compacta) con muros de adobe y relleno de tierra arenosa,,,,x
+562,GMB,23 VI 14,0.5,30 - 42,0.48,18,I20,,,,debajo de 560,"tierra limosa (10YR 3/3, dark brown)",deslave,,,Mudslide,
+563,DHS,23 VI 14,no,10 - 24,0.64,18,I23,,,,superficie,"tierra organica arcillosa, Munsell 10YR 2/2",zona de arado,Plough zone,,,
+564,DHS,23 VI 14,0.5,24 - 36,0.285,18,I23,,,,debajo de 563,"tierra arcillosa, Munsell 10YR 2/2","deslave, muro de adobe",,,,
+565,GMB,23 VI 14,0.5,42 - 55,0.52,18,I20,,,,debajo de 562,"tierra limosa (10YR 3/3, dark brown)",nivel de ocupación,,,,x
+566,DHS,23 VI 14,0.5,36 - 51,0.333,18,I23,,,,debajo de 564,"tierra arcillosa, Munsell 10YR 2/2",deslave,,,Mudslide,
+567,AH,23 VI 14,0.5,52-74,0.4,18,M26,,,,debajo de 538,tierra arenosa (10YR 4/3 - brown) sobre un nivel de gravilla,derrumbe y deslave sobre un nivel de ocupación (Piso 2 de tierra compacta y gravilla) y arquitectura de adobe,,,,
+568,AH,23 VI 14,0.5,64-71,0.001,18,M26,30,,,debajo de 567,tierra arenosa (10YR 4/3 -brown) sobre un nivel de gravilla,Elemento 30; nivel de ocupación (Piso 2),,,Feature,x
+569,AH,24 VI 14,0.5,70-93,0.61,18,N26,,,,debajo de 561,tierra arenosa (10YR 4/3 - brown),Deslave de tierra arenosa entre muros de adobe,,,,
+570,GMB,24 VI 14,0.5,55 - 84,1.1,18,I20,,,,debajo de 565,"en el primero parte de unidad, tierra limosa (10YR 3/3, dark brown) y entonces un cambio en el sedimento a tierra arenosa",nivel de ocupación,,,,x
+571,DHS,24 VI 14,0.5,51 - 78,0.87,18,I23,,,,debajo de 566,"tierra arcillosa con arenao, Munsell 10YR 3/2",relleno,,,Fill,
+572,AH,24 VI 14,0.5,74-92,0.28,18,M26,,,,debajo de 567,tierra arenosa (10YR 4/3 - brown),deslave o relleno debajo un piso; nivel tiene muros de adobe,,,,
+573,DHS,24 VI 14,0.5,78 - 107,0.152,18,I23,,,,debajo de 571,"arena de rio, Munsell 10YR 5/3",relleno,X,,Fill,
+574,DHS,24 VI 14,0.5,78 - 84,0.086,18,I23,,,,debajo de 571,"arena de rio y tierra arcillosa compactaca, Munsell 10YR 5/3",nivel de ocupación,,,,x
+575,DHS,24 VI 14,0.5,84,0.002,18,I23,32,,,debajo de 574,deposito de tecos,"Elemento 32, deposito de tecos",,,Feature,x
+576,GMB,24 VI 14,0.5,76 - 90,0.59,18,I20,31,,,debajo de 570 al oeste de unidad,tierra arenosa (10YR 3/3 - dark brown),elemento; entierro flexionada al oeste de unidad,,,Feature,x
+577,AH,25 VI 14,0.5,93-115,0.59,18,N26,,,,debajo de 569,tierra arenosa (10YR 4/3 - brown),Deslave de tierra arenosa entre muros de adobe,,,,
+578,AH,25 VI 14,0.5,92-116,0.52,18,M26,,,,debajo de 572,tierra arenosa (10YR 4/3 - brown),deslave o relleno de tierra arenosa entre muros de adobe,,,,
+579,DHS,25 VI 14,0.5,81 - 91,0.09,18,J21,,,,debajo de 423,"base de tepetate con arena, Munsell 10YR 3/4",relleno bajo piso,,,,
+580,GMB,25 VI 14,0.5,84 - 93,0.3,18,I20,,,,debajo de 570 y alrededor de 576,"tierra arenosa (10YR 3/3, dark brown)",relleno entre de los pisos con uno candelero,,,,
+581,DHS,25 VI 14,0.5,69 - 90,0.714,18,I21,,,,debajo de 534,"arena de rio, Munsell 10YR 3/4",relleno bajo piso,,,,
+582,GMB,25 VI 14,0.5,93 - 100,0.28,18,I20,,,,debajo de 580,"tierra arenosa (10YR 3/3, dark brown)",relleno entre de los pisos,,,,
+583,GMB,25 VI 14,0.5,100 - 121,0.84,18,I20,,,,debajo de 582,"tierra arenosa (10YR 3/3, dark brown) al oeste de unidad; tierra arenosa muy compacta (10 YR 5/2 - grayish brown) al este de unidad;",relleno; nivel sobre de piso,,,,
+584,DHS,25 VI 14,0.5,92 - 100,0.24,18,J22,,,,debajo de 479,"tierra con arena de rio, Munsell 10YR 3/4",relleno bajo piso,,,,
+585,DHS,25 VI 14,0.5,69 - 90,0.84,18,I22,,,,debajo de 536,"arena de rio y fragmentos de piso quemado, Munsell 10YR 3/4",relleno bajo piso,,,,
+586,AH,26 VI 14,0.5,115-133,0.46,18,N26,,,,debajo de 577,tierra arenosa (10YR 4/3 - brown) y tierra arenosa (10YR 5/3 - brown) en la esquina suroeste,nivel de ocupación (Piso 3 de tierra compacta) con muros de adobe y relleno de tierra arenosa,,,,x
+587,AH,26 VI 14,0.5,116-136,0.67,18,M26,,,,debajo de 578,tierra arenosa (10YR 4/3 - brown) y tierra muy arenosa (10YR 5/3 - brown) en sur y este (cerca de la arquitectura de piedra),nivel de ocupación (Piso 3) con tierra arenosa y tierra muy arenosa cerca de la arquitectura de piedra,,,,x
+588,GMB,26 VI 14,0.5,121 - 133,0.48,18,I20,,,,debajo de 583,"debajo de 5 cm, un piso de modeada de coscajo - gravilla compacta (2.5 YR 2.5/4, dark reddish brown) y tierra limosa (10 YR 3/3, dark brown) y arsenosa compacta (10 YR 5/2, grayish brown). Debajo de piso es un base de piso - tierra arenosa (10YR 4/3, brown)",nivel de ocupación y apisonado igual con apisonado debajo de piso 4 en I22,,,,x
+589,AH,26 VI 14,0.5,136-160,0.81,18,M26,,,,debajo de 587,tierra arenosa (10YR 4/3 - brown) y tierra muy arenosa (10YR 5/3 - brown) en sur y este (cerca de la arquitectura de piedra),relleno debajo piso 3 y entre arquitectura de piedra,,,,
+590,DHS,26 VI 14,0.5,90 - 112,0.068,18,I22,,,,debajo de 585,"tierra arcillos del adobe y arena, Munsell 10YR 5/3",muro de adobe,,,,x
+591,DHS,26 VI 14,0.5,0.144,0.144,18,J21,,,,debajo de 579,"arena, tepetate molido y apisonado, Munsell 10YR 3/4","relleno y apisonado, piso 4",,,,
+592,DHS,26 VI 14,0.5,90 - 109,0.54,18,I21,,,,debajo de 581,"arena, tepetate molido y piso, Munsell 10YR 3/4",relleno y apisonado,,,,
+593,DHS,26 VI 14,0.5,105,0.001,18,I21,33,,,debajo de 592,"arena, Munsell 10YR 3/4","Elemento 23: caparazon de tortuga lado ventral, piedra tallada y vasija quemada",,,Feature,x
+594,AH,27 VI 14,0.5,160-186,0.01,18,M26,,,,debajo de 589,"1. tierra arenosa (10YR 4/3 - brown); 2. tierra arcillosa (10YR 3/2 - very dark, grayish brown); 3. ceniza (10YR 7/2 - light gray); 4. tierra arenosa pero un poco arcillosa (10YR 7/4 - very pale brown); 5. tierra arcillosa (10YR 5/3 - brown); 6. carbón",nivel de ocupación; posible un folcon?,X,,,x
+595,AH,27 VI 14,0.5,160-174,0.56,18,M26,,,,debajo de 589,tierra arenosa (10YR 5/3 - brown) con un poco cerca del folcon (10YR 8/5 - yellowish brown) y tierra arenosa (10YR 4/3 - brown) en la esquina noroeste,relleno de tierras arenosas sobre un nivel de ocupación con Piso 4 de cemento,,,,
+596,GMB,27 VI 14,no,29 - 78,1.96,SOTD,D42,,,,superfice,"tierra orgánica con muchas raices y arcillosa (10YR 2/1, almost black)","superfice, zona de arado",,,"Surface, plough zone",
+597,GMB,27 VI 14,0.5,78 - 99,0.84,SOTD,D42,,,,debajo de 596,"tierra arcillosa para el primero 10 cm, entonces moldeada tierra limosa (10YR 2/1, almost black) con tierra arenosa (10YR 4/3, brown) al sur de unidad. En el esquina SE hay muchas piedras",derumbe (al sur de unidad) y deslave,,,,
+598,DHS,27 VI 14,0.5,100 - 111,0.33,18,J22,,,,debajo de 584,"arena, tepetate molido y fragmentos de piso, Munsell 10YR 3/4",relleno y apisonado,,,,
+599,DHS,27 VI 14,0.5,90 - 107,0.64,18,I22,,,,debajo de 585,"arena y tierra limosa, Munsell 10YR 3/2",relleno y apisonado,,,,
+600,AH,27 VI 14,0.5,174-202,0.001,18,M26,34,,,debajo de 595,tierra arenosa (10YR 5/3  - brown),Elemento 34; nivel de ocupación;un ocrte en Piso 4 con tierra arenosa y artefactos (vecino al folcon),,,Feature,x
+601,AH,27 VI 14,0.5,174-197,0.005,18,M26,,,,debajo de 595,tierra arenosa (10YR 4/3 - brown) y un poco tierra arenosa (10YR 7/6 - yellow),nivel de ocupación; un corte en Piso 4 en la esquina noreste,,,,x
+602,AH,27 VI 14,0.5,174-205,0.34,18,M26,,,,debajo de 595,tierra arenosa (10YR 3/2 - very dark grayish brown) sobre tierra arcillosa (10YR 2/2 - very dark brown),nivel de ocupación con Piso 5 de cemento (en la esquina noroeste),,,,x
+603,DHS,27 VI 14,0.5,84 - 104,0.874,18,I23,,,,debajo de 574,"tierra arcillosa con arena, Munsell 10YR 5/3",relleno y apisonado,,,,
+604,DHS,27 VI 14,0.5,87 - 106,0.418,18,J23,,,,debajo de 559,"tierra arcillosa con arena y algunas piedras, Munsell 10YR 3/3","relleno, apisonado y derrumbe",,,,
+605,GMB,27 VI 14,0.5,99 - 116.5,0.7,SOTD,D42,,,,debajo de 597,"tierra arcillosa (10YR 2/1, almost black) y moldeada tierra limosa y tierra arenosa (10YR 4/3,brown). Hay muchas piedras grandes al sur de unidad.",derumbe y deslave,,,Collapse and Mudslide,
+606,GMB,28 VI 14,0.5,133 - 157,0.764,18,I20,,,,debajo de 688,"arena y tierra muy arenosa (2.5 YR 4/3, olive green)",relleno entre apisonado (encima) y piso de concreto (abajo),,,,
+607,DHS,28 VI 14,no,17 - 29,0.64,18,J20,,,,superficie,"tierra organica arcillosa, Musell 10YR 2/2",zona de arado,Plough zone,,,
+608,DHS,28 VI 14,no,15 - 30,0.3,18,K20s,,,,superficie,"tierra organica arcillosa, Musell 10YR 2/2",zona de arado,Plough zone,,,
+609,GMB,28 VI 14,0.5,116.5 - 134,0.7,SOTD,D42,,,,debajo de 605,"tierra arcillosa (10YR 2/1, almost black) y en al sur de unidad un poco tierra arenosa mixto con tierra limosa (10YR 4/3, dark brown)",deslave,,,Mudslide,
+610,DHS,28 VI 14,0.5,29 - 50,0.73,18,J20,,,,debajo de 607,"tierra arcillosa, Munsell 10YR2/2",derrumbe y deslave,,,Collapse and Mudslide,
+611,DHS,28 VI 14,0.5,30 - 49,0.38,18,K20s,,,,debajo de 608,"tierra arcillosa, Munsell 10YR2/2",derrumbe y deslave,,,Collapse and Mudslide,
+612,DHS,28 VI 14,0.5,50 - 64,0.456,18,J20,,,,debajo de 610,"tierra arcillosa, Munsell 10YR2/2",derrumbe y deslave,,,Collapse and Mudslide,
+613,DHS,28 VI 14,0.5,49 - 63,0.28,18,K20s,,,,debajo de 611,"tierra arcillosa, Munsell 10YR3/2",derrumbe y deslave,,,Collapse and Mudslide,
+614,GMB,30 VI 14,no,8 - 63,1.81,SOTD,D41,,,,superfice,"tierra orgánica con muchas raices. Unas piedras grandes tambien, pero no mucho. Al este de unidad, tierra arcillosa (10YR 2/1, almost black). Al oeste de unidad, arena (10YR 4/3 brown)",superfice,,Soil,Surface,
+615,GMB,30 VI 14,0.5,63 - 95,1.28,SOTD,D41,,,,debajo de 614,"tierra arcillosa con raices (10YR 2/1, almost black). Al oeste de unidad, en el primero 10 cm, moldeada de tierra limosa (10 YR 2/1, almost black) con arena (10 YR 4/3 brown)",deslave,,,Mudslide,
+616,DHS,30 VI 14,0.5,64 - 77,0.312,18,J20,,,,debajo de 612,"tierra arcillosa con arena, Munsell 10YR 3/2",derrumbe y deslave,,,Collapse and Mudslide,
+617,DHS,30 VI 14,0.5,63 -67,0.08,18,K20s,,,,debajo de 613,"tierra arcillosa, Munsell 10YR3/2",derrumbe y deslave,,,Collapse and Mudslide,
+618,AH,30 VI 14,No,27-51,0.96,18,K11,,,,superficie,tierra orgánica y arcillosa (Munsell 10YR 2/2 - very dark brown),zona de arado,Plough zone,,,
+619,DHS,30 VI 14,0.5,77 - 94,0.243,18,J20,,,,debajo de 616,"tierra arcillosa con arena, Munsell 10YR 4/3",derrumbe y deslave,,,Collapse and Mudslide,
+620,DHS,30 VI 14,0.5,94 - 112,0.066,18,J20,,,,debajo de 619,"tierra arcillosa con arena, Munsell 10YR 4/3",derrumbe y deslave,,,Collapse and Mudslide,
+621,DHS,30 VI 14,0.5,112 - 125,0.06,18,J20,,,,debajo de 620,"tierra arcillosa con arena, Munsell 10YR 4/3",derrumbe y deslave,,,Collapse and Mudslide,
+622,DHS,30 VI 14,0.5,125 - 137,0.096,18,J20,,,,debajo de 621,"tierra arcillosa con arena, Munsell 10YR 4/3",derrumbe y deslave,,,Collapse and Mudslide,
+623,DHS,30 VI 14,0.5,137 - 196,0.035,18,J20,,,,debajo de 622,"tierra arcillosa con arena, Munsell 10YR 4/3",relleno constructivo,,,,
+624,AH,30 VII 14,0.5,51-66,0.49,18,K11,,,,debajo de 618,tierra arcillosa (10YR 2/2 - very dark brown),nivel de ocupación con muros de piedra y Piso 1 de tierra compacta (oeste); derrumbe y deslave (este),,,,x
+625,AH,1 VII 14,No,22-29,0.28,18,L11,,,,superficie,tierra orgánica y arcillosa (Munsell 10YR 2/2 - very dark brown),zona de arado,Plough zone,,,
+626,AH,1 VII 14,No,32-57,1,18,L10,,,,superficie,tierra orgánica y arcillosa (Munsell 10YR 2/2 - very dark brown),zona de arado,Plough zone,,,
+627,AH,1 VII 14,No,35-56,0.84,18,K10,,,,superficie,tierra orgánica y arcillosa (Munsell 10YR 2/2 - very dark brown),zona de arado,Plough zone,,,
+628,GMB,1 VII 14,0.5,95 - 111.5,0.66,SOTD,D41,,,,debajo de 615,"tierra arcillosa muy compacta (10 YR 2/1, almost black) con raices en el primero 10 cm",deslave,,,Mudslide,
+629,GMB,1 VII 14,0.5,111.5 - 134.5,0.92,SOTD,D41,,,,debajo de 628,"En el primero 10 cm, tierra muy arcillosa (10YR 2/1, almost black). 5 cm sobre de tepetate es una capa delgada de gravilla con un poco arena (10YR 4/3, brown)",deslave,,,Mudslide,
+630,DHS,1 VII 14,0.5,104 - 127,0.777,18,I23,,,,debajo de 603,"tierra arcillosa, arena y ceramica, Munsell 10YR 5/2",relleno de tiestos,,,,
+631,AH,2 VII 14,0.5,29-65,1.15,18,L11,,,,debajo de 625,tierra arcillosa (Munsell 10YR 2/2 - very dark brown),nivel de ocupación con muros de piedra y Piso 1 de tierra compacta (oeste); derrumbe y deslave (este),,,,x
+632,AH,2 VII 14,0.5,57-65,0.32,18,L10,,,,debajo de 626,tierra arcillosa (10YR 2/2 - very dark brown),zona de arado con derrumbe y deslave sobre un nivel de  ocupación con Piso 1 de tierra compacta,Plough zone with collapse and mudslide,,,
+633,AH,2 VII 14,0.5,56-66,0.32,18,K10,,,,denajo de 627,tierra arcillosa (10YR 2/2 - very dark brown),nivel de ocupación con un muro de piedra y Piso 1 de tierra compacta,,,,x
+634,DHS,2 VII 14,0.5,127 - 131,0.064,18,I23,,,,debajo de 630,"tierra arenosa, Munsell 10YR 5/2",relleno ,,,Fill,
+635,DHS,2 VII 14,0.5,131 - 142,0.388,18,I23,,,,debajo de 634,"tierra arenosa, apisonado y arena Munsell 10YR 5/2",relleno,,,Fill,
+636,AH,2 VII 14,0.5,65-84 (este parte de unidad),0.17,18,L11,,,,debajo de 631,tierra arcillosa (10YR 2/2 - very dark brown),nivel de ocupación con muros de piedra y Piso 1 de tierra compacta (oeste); derrumbe y deslave (este),,,,x
+637,AH,2 VII 14,0.5,66-84 (este parte de unidad),0.29,18,K11,,,,debajo de 624,tierra arcillosa (10YR 2/2 - very dark brown),nivel de ocupación con muros de piedra y Piso 1 de tierra compacta (oeste); derrumbe y deslave (este),,,,x
+638,GMB,1 VII 14,0.5,al oeste de unidad: 134.5 - 135.5; al este de unidad: 134.5 - 145.5,0.24,SOTD,D41,,,,debajo de 629,"sobre de tepetate, una capa delgada gravilla (10YR 4/2, dark grayish brown)",deslave/posible nivel de ocupación,,,,
+639,GMB,3 VII 14,0.5,al oeste de unidad: 134 - 145.5; al este de unidad 134 - 197,1.26,SOTD,D42,,,,debajo de 609,"tierra arcillosa (10YR 2/1, almost black) hasta 5-10 cm sobre de tepetate. Sobre de tepetate es una capa delgada de gravilla (10YR 4/2 - dark grayish brown)",deslave,,,Mudslide,
+640,DHS,3 VII 14,0.5,142 - 159,0.583,18,I23,,,,debajo de 635,"arena, Munsell 10YR 5/2 y cascajo Munsell 10R 4/8 (red)",relleno,,,Fill,
+641,AH,3 VII 14,0.5,84-101 (este parte de unidad),0.27,18,K11,,,,debajo de 637,"tierra arenosa (Munsell 10YR 3/2 - very dark, grayish brown) con piedras en el lado este",nivel de ocupación con muros de piedra y Piso 1 de tierra compacta (oeste); derrumbe y deslave o relleno (este),,,,x
+642,AH,3 VII 14,0.5,84-99 (este parte de unidad),0.19,18,L11,,,,debajo de 636,"tierra arenosa (Munsell 10YR 3/2 - very dark, grayish brown)",nivel de ocupación con muros de piedra y Piso 1 de tierra compacta (oeste); derrumbe y deslave o relleno (este),,,,x
+643,DHS,3 VII 14,0.5,159 - 172,0.324,17,I23,,,,debajo de 640,"tierra arcillosa con arena, Munsell 10YR 4/2",relleno,,,Fill,
+644,AH,3 VII 14,0.5,101-123 (este parte de unidad),0.35,18,K11,,,,debajo de 641,"tierra arenosa (10YR 3/2 - very dark, grayish brown)",nivel de ocupación con muros de piedra y Piso 1 de tierra compacta (oeste); derrumbe y deslave o relleno (este),,,,x
+645,AH,3 VII 14,0.5,99-125 (este parte de unidad),0.42,18,L11,,,,debajo de 642,"tierra arenosa (10YR 3/2 - very dark, grayish brown)",nivel de ocupación con muros de piedra y Piso 1 de tierra compacta (oeste); derrumbe y deslave o relleno (este),,,,x
+646,DHS,3 VII 14,0.5,159 - 187,0.3,18,I23,,,,debajo de 643,S: tierra limosa compactada Munsell 10YR 5/3 N: Munsell 10YR 3/2,nivel de ocupacion con relleno,,,,x
+647,DHS,3 VII 14,0.5,107 - 121,0.43,18,I22,,,,debajo de 599,"tierra arenosa, Munsell 10YR 4/3",relleno,,,Fill,
+648,GMB,4 VII 14,0.5,197 - 212,0.15,SOTD,D42,,,,debajo de 639,sobre de tepetate es una capa delgada de gravilla (10YR 4/2 - dark grapyish brown),deslave/ posible nivel de ocupación,,,,
+649,AH,4 VII 14,no,36-48,0.48,18,M11,,,,superfice,tierra orgánica y arcillosa (10YR 2/2),"superfice, zona de arado",,,"Surface, plough zone",
+650,AH,4 VII 14,No,47-61,0.56,18,L9,,,,superficie,tierra orgánica y arcillosa (Munsell 10YR 2/2 - very dark brown),zona de arado,Plough zone,,,
+651,AH,4 VII 14,no,45 - 60,0.56,18,K9,,,,superficie,"tierra organica arcillosa, Munsell 10YR 2/2",zona de arado,Plough zone,,,
+652,AH,4 VII 14,0.5,61-80,0.57,18,L9,,,,debajo de 650,tierra arcillosa (10YR 2/2 - very dark brown),nivel de ocupación (con una parte de Piso 1 en este) debajo de deslave de tierra arcillosa,,,,x
+653,AH,4 VII 14,0.5,60-75,0.48,18,K9,35,,,debajo de 651,tierra arcillosa (10YR 2/2 - very dark brown),Elemento 35; nivel de ocupación (Piso 1 en este y sur) debajo de deslave de tierra arcillosa,,,Feature,x
+654,AH,4 VII 14,0.5,60 - 84,0.188,18,K9,,,,debajo de 651 lado N del muro,"tierra arcillosa, Munsell 2/2",deslave,,,Mudslide,
+655,GMB,5 VII 14,0.5,oeste: 48-62; este: 48-73,0.718,18,M11,,,,debajo de 649,tierra arcillosa (10YR 2/2 - very dark brown),nivel de ocupación al oeste; deslave o relleno al este,,,,x
+656,DHS,7 VII 14,0.5,121 - 132,0.471,18,I22,,,,debajo de 647,"tierra y abundantes tiestos, Munsell 10YR 4/3","relleno, basurero",,,,x
+657,GMB,7 VII 14,No,45-72,1.08,18,M9,,,,superfice,tierra orgánica y arcillosa (10YR 2/2 - very dark brown),"superfice, zona de arado",,,"Surface, plough zone",
+658,GMB,7 VII 14,0.5,41-56,0.6,18,M10,,,,superfice,tierra orgánica y arcillosa (10YR 2/2 - very dark brown),"superfice, zona de arado",,,"Surface, plough zone",
+659,GMB,7 VII 14,0.5,72-83,0.388,18,M9,,,,debajo de 657,"tierra arcillosa (10YR 2/2 - very dark brown) En esquina NE, arena sobre de apisonado (10YR 3/4 - dark yellowish brown)","nivel de ocupación, apisonado",,,,x
+660,DHS,7 VII 14,0.5,132 - 163,0.91,18,I22,,,,debajo de 656,"tierra arenosa y arcillosa, Munsell 10YR 4/3",relleno,,,Fill,
+661,GMB,7 VII 14,0.5,56-64,0.34,18,M9,,,,debajo de 658,tierra arcillosa (10YR 2/2 - very dark brown),nivel sobre de piso,,,,x
+662,GMB,7 VII 14,0.5,73-116,0.86,18,M11,,,,debajo de 655 al este de muro,tierra arcillosa (10YR 2/2 - very dark brown),oeste parte es un piso 1 - no excavado; este parte es deslave o relleno,,,,x
+663,GMB,8 VII 14,0.5,116-137,0.42,18,M11,,,,debajo de 662 al este de muro,tierra arenosa (10YR 2/2 -very dark brown),al este de unidad - deslave or relleno,,,,
+664,DHS,8 VII 14,0.5,163 - 180,0.376,18,I22,,,,debajo de 660,"tierra arcillosa con arena, Munsell 10YR 5/2",relleno,,,Fill,
+665,DHS,8 VII 14,0.5,187 - 210,0.384,18,I23,,,,debajo de 646,"tierra arcillosa, Munsell 10YR 3/2",deslave,,,Mudslide,
+666,AH,8 VII 14,0.5,80-91,0.33,18,K9/L9,,,,debajo de 652 y 653,tierra arcillosa (10YR 2/2 - very dark brown) (norte) y tierra arcillosa (10YR 4/4 - dark yellowish brown) (sur de L9 y norte de K9),nivel de ocupación con un piso (Piso 2) erosionado sobre base de tepetate,,,,x
+667,GMB,8 VII 14,0.5,83-90,0.108,18,M9,,,,debajo de 659,tierra arcillosa (10YR 2/2 - very dark brown) al sur de unidad,base de piso 2; nivel de ocupación al sur de unidad,,,,x
+668,GMB,8 VII 14,0.5,90-102,0.316,18,M9,,,,debajo de 667,tierra arenosa moldeada (10YR 2/2 - very dark brown y 10 YR 5/2 - grayish brown),"nivel de ocupación, nivel sobre de piso 3",,,,x
+669,AH,8 VII 14,0.5,91-102,0.33,18,L9,,,,debajo de 666,tierra arcillosa (10YR 4/4 - dark yellowish brown),piso 3 y base de piso,,,,x
+670,DHS,8 VII 14,0.5,187 - 216,0.234,18,I23,,,,debajo de 646,"tierra arcillosa con arena, Munsell 10YR 4/3",relleno,,,Fill,
+671,AH,8 VII 14,0.5,86-116,0.28,18,K9,,,,debajo de 666,tierra arenosa (10YR 4/4 - dark yellowish brown),piso 3 y base de piso,,,,x
+672,GMB,8 VII 14,no,20 - 60,1.5,18,N11,,,,superfice,tierra orgánica y arcillosa (10YR 2/2 - very dark brown),superfice; zona de arado,,,"Surface, plough zone",
+673,DHS,8 VII 14,0.5,210,0.21,18,I23,,,,debajo de 665,"tierra arcillosa con arena, Munsell 10YR 4/3",relleno,,,Fill,
+674,DHS,8 VII 14,0.5,216 - 232,0.144,18,I23,,,,debajo de 67-,"tierra limosa, Munsell 10YR 4/3 barro negro, Munsell 10YR 3/2","relleno, primera ocupacion sobre el tepetate",,,,
+675,GMB,8 VII 14,no,40-60,0.8,18,J9,,,,superfice,tierra orgánica y arcillosa (10YR 2/2 - very dark brown),superfice; zona de arado,,,"Surface, plough zone",
+676,GMB,9 VII 14,0.5,60 - 69,0.414,18,J9,,,,debajo de 675,tierra arcillosa (10YR 2/2 - very dark brown),nivel debajo de piso 1 y base de piso,,,,x
+677,GMB,9 VII 14,0.5,60 - 74,0.325,18,N11,,,,debajo de 672,tierra arenosa (10YR 2/2 - very dark brown),al oeste de unidad - base de piso 1; al este de unidad - relleno de tepetate,,,,
+678,DHS,9 VII 14,0.5,228 - 232,0.036,18,I23,,,,debajo de 673,"barro negro, Munsell 10YR 3/2",suelo natural preteotihuacano,,,,
+679,DHS,9 VII 14,0.5,50,0.112,18,I22,,,,debajo de 664,"bloque de tierra arcillosa, Munsell 10YR 5/2",relleno,,,Fill,
+680,DHS,9 VII 14,0.5,172 - 227,0.504,18,I23,,,,debajo de 643,"piso de tepetate molido con base de tierra arenosa, Munsell 10YR 3/2",piso bajo estructura con hoyos para postes y relleno,,,,x
+681,AH,9 VII 14,0.5,102-112,0.4,18,L9,,,,debajo de 669,tierra arcillosa (10YR 2/2 - very dark brown) y una parte de arena (10YR 6/3 - pale brown),una moldeada de tierra arcillosa; piso 3 y base de piso,,,,x
+682,AH,9 VII 14,0.5,65-80,0.6,18,L10,,,,debajo de 632,tierra limosa (10YR 3/4 - dark yellowish brown) y arena (10YR 6/3 - pale brown),Piso 1 y base de piso,,,,x
+683,AH,9 VII 14,0.5,75-80,0.07,18,K9,,,,debajo de 671,tierra limosa (10 YR 3/3 - dark brown) con arena (10YR 6/3 - pale brown),piso de pigmento rojo y base de piso,,,,x
+684,AH,10 VII 14,0.5,80-100,0.8,18,L10,,,,debajo de 682,tierra limosa (10YR 3/4 - dark yellowish brown) y arena (10YR 6/3 - pale brown),Relleno,,,Fill,
+685,AH,10 VII 14,0.5,80-113,0.04,18,K9,37,,,debajo de 683,tierra limosa (10YR 3/4 - dark yellowish brown) y arena (10YR 6/3 - pale brown),Elemento 37; hoyo en piso,,,Feature,x
+686,DHS,10 VII 14,0.5,180 - 225,0.495,18,I22,,,,debajo de 664,"arena y tierra arcillosa, Munsell 10YR 5/2","contexto de elemento, relleno",,,,x
+687,DHS,10 VII 14,0.5,227 - 257,0.436,18,I23,36,,,debajo de 80,"tierra arcillosa y entierra, Munsell 10YR 3/2","Elemento 36, entierro animal y huesos humanos",,,Feature,x
+688,AH,10 VII 14,0.5,100-114,0.56,18,L10,,,,debajo de 684,tierra limosa (10YR 3/4 - dark yellowish brown) y arena (10YR 6/3 - pale brown),Relleno,,,Fill,
+689,DHS,10 VII 14,0.5,257 - 275,0.265,18,I23,,,,debajo de 687,tierra arcillosa y tepetate,primera ocupacion sobre el tepetate,,,,x
