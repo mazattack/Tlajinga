@@ -1,0 +1,30 @@
+---
+title: "Tlajinga Stats Plan"
+output: html_notebook
+---
+
+Power=0.8
+Sugiyama mean leproid (interprets as captive) mean 5.9 SD 2.1, same as the values for Oztoyohualco, the place we have the best evidence for captive lepriod breeding (Somerville)
+
+
+```{r}
+iso2
+str(iso2)
+library (dplyr)
+arrange(iso2, desc(C13ap))
+```
+```{r}
+iso2$Site <-as.factor(iso2$Site)
+summary(iso2)
+```
+
+```{r}
+av<-iso2 %>%
+  filter(Site!="modern", Site!="Oztoyahualco")
+ mean(av$C13ap)
+ sd(av$C13ap)
+```
+```{r power test}
+power.t.test(delta=2.0,  sd=2.3, sig.level = 0.05, power=0.8, alternative = "one.sided", type = c("two.sample"))
+```
+

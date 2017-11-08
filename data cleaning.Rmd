@@ -29,13 +29,19 @@ PATT<-select(PATT, -Volume, -(Operacion:Fecha))
 head(PATT)
 ```
 
+Now I want to attempt to summarise all of the Lote I analysed by linking the two tables. I think I need to rename the Operacion due to special characters. 
+```{r Analysed Lote}
+Lote_gr <-group_by(Lote, Unidad)
+PATT_gr<-group_by(PATT, Lote)
 
-```{r }
+analysed_Lotes <- inner_join(PATT_gr, Lote_gr, Lote)%>%
+  Select(Lote, Operación, Unidad)%>%
+  Unique%>%
+  Print
+
+
 
 ```
-
-
-
 ```{r }
 
 ```
