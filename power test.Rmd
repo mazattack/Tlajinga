@@ -28,3 +28,125 @@ av<-iso2 %>%
 power.t.test(delta=2.0,  sd=2.3, sig.level = 0.05, power=0.8, alternative = "one.sided", type = c("two.sample"))
 ```
 
+
+
+```{r}
+pilot1<-as.data.frame(iso2) %>%
+  filter(Site!="modern", Site!="Oztoyahualco") %>%
+  select(C13ap)
+pilot2<-as.data.frame(iso2) %>%
+  filter(Site=="Oztoyahualco") %>%
+  select(C13ap)
+```
+```{r}
+pilot1<-as.numeric(unlist(pilot1))
+pilot2<-as.numeric(unlist(pilot2))
+mean(pilot1)
+mean(pilot2)
+sd(pilot1)
+sd(pilot2)
+```
+
+```{r bootstrap power function - not sure if works - has to unist pilot and convert to vector}
+power = function(group1.pilot, group2.pilot, reps=1000, size=10) {
+    results  <- sapply(1:reps, function(r) {
+        group1.resample <- sample(group1.pilot, size=size, replace=TRUE) 
+        group2.resample <- sample(group2.pilot, size=size, replace=TRUE) 
+        test <- t.test(group1.resample, group2.resample, var.equal = TRUE, paired=FALSE, alternative ="two.sided")
+        test$p.value
+    })
+    sum(results<0.05)/reps
+}
+
+
+```
+```{r - i dontthink this works}
+#Find power for a sample size of 100
+power(pilot1, pilot2, reps=1000, size=20)
+```
+
+
+
+```{r bootstrap power function - test equal variances}
+power.var = function(group1.pilot, group2.pilot, reps=1000, size=10) {
+    results  <- sapply(1:reps, function(r) {
+        group1.resample <- sample(group1.pilot, size=size, replace=TRUE) 
+        group2.resample <- sample(group2.pilot, size=size, replace=TRUE) 
+        test <- var.test(group1.resample, group2.resample)
+        test$p.value
+    })
+    sum(results>0.05)/reps
+}
+
+
+```
+```{r }
+#Find power for a sample size of 100
+power.var(pilot1, pilot2, reps=1000, size=16)
+```
+
+```{r bootstrap power function - test normality}
+power.var = function(group1.pilot, group2.pilot, reps=1000, size=10) {
+    results  <- sapply(1:reps, function(r) {
+        group1.resample <- sample(group1.pilot, size=size, replace=FALSE) 
+        group2.resample <- sample(group2.pilot, size=size, replace=FALSE) 
+        test1 <- shapiro.test(group1.resample)
+        test2 <- shapiro.test(group2.resample)
+        c(test1$p.value, test2$p.value)
+    })
+    c((sum(results[1,]>0.05)/reps), sum(results[2,]>0.05)/reps)
+}
+
+
+```
+```{r -}
+#Find power for a sample size of 100
+power.var(pilot1, pilot2, reps=1000, size=14)
+```
+
+```{r}
+sample_size <- 16
+s <- sample(pilot1, size = sample_size, replace = FALSE)
+shapiro.test(s)
+m
+```
+```{r}
+sample_size <- 10
+x <- NULL
+for (i in 1:1000) {
+    x[i] <- mean(sample(pilot1$C13ap, size = sample_size, replace = FALSE))
+}
+```
+```{r}
+mean(x)
+sd(x)
+```
+```{r}
+sample_size <- 10
+x <- NULL
+for (i in 1:1000) {
+    x[i] <- mean(sample(pilot2$C13ap, size = sample_size, replace = FALSE))
+}
+```
+```{r}
+mean(x)
+sd(x)
+```
+```{r}
+t.test(pilot1, pilot2,paired=FALSE)
+```
+
+```{r}
+?t.test
+var.test(pilot1, pilot2) # I can use the equal variance test
+```
+
+```{r power test for ANOVA}
+library(powerbydesign)
+library(pwr)
+pwr.anova.test(k=5, n=NULL, f=0.5, sig.level = 0.05, power=0.8)
+??anova
+pwr.2way(a=2, b=5, alpha=0.05, delta.A = 2, delta.B = 2, sigma.A = 2.3, sigma.B = 2.3, size.A=45, size.B=17)
+
+```
+
